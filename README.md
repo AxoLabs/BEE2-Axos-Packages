@@ -1,10 +1,11 @@
 # BEE2-Axos-Packages
-**U**ser **c**reated **p**ackages (UCPs) made by AxoLabs.
+**U**ser **c**reated **p**ackages (UCPs) for BEEMod made by AxoLabs.
 
-Supported versions: BEEMod 2.4.43.0 and up.
+Supported versions: BEEMod 2.4.43.0.
 
 Supported styles: OG Clean, Clean and P1. Old AP styles have old AP-styled emitters and icons, but no support for them beyond that is planned.
 
+Contributing guidelines: https://github.com/AxoLabs/BEE2-Axos-Packages/blob/main/docs/CONTRIBUTING.md
 
 The **Purple Paint Fizzler** UCP: 
 - A modified version of the default paint fizzler that is purple.
