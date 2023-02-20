@@ -4,7 +4,7 @@ Did you find a bug in one of the UCPs, or do you want to suggest an enhancement 
 Issues that do not follow these guidelines will be closed, and in extreme cases you may get banned from the repository.
 
 ### Keep issues clean and understandable.
-Please describe issues and enhancements as clearly as possible. Keep the issue easily readable and understandable, and provide as much information as you can. Unclear, sloppy issues are of no use and will be closed.
+Please describe issues and enhancements as clearly as possible. Keep the issue easily readable and understandable, and provide as much information as you can. Unclear, sloppily written issues are of no use and will be closed.
 You are expected to reply if asked for more information. 
 
 ### Do not reopen issues.
