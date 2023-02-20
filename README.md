@@ -1,4 +1,3 @@
-![axo_fizzlers_demo](https://user-images.githubusercontent.com/125143965/220135945-b665c395-77e6-4fda-a8af-0fb79546c73d.png)
 # BEE2-Axos-Packages
 **U**ser **c**reated **p**ackages (UCPs) for BEEMod made by AxoLabs.
 
@@ -22,3 +21,5 @@ The **Physics Obliteration Field** UCP:
 - Uses Portal 1 emitter models in all styles, except old Aperture. 
 - Comes with a 1997 quality guaranteed signage. // Might want to make a signage that better indicates the field's functions
 - Known issue: Turrets from a turret dropper destroyed by this don't get respawned in the overgrown style. I do not plan to fix this for various reasons.
+
+![axo_fizzlers_demo](https://user-images.githubusercontent.com/125143965/220135945-b665c395-77e6-4fda-a8af-0fb79546c73d.png)
