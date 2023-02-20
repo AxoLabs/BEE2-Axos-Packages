@@ -12,7 +12,7 @@ The **Purple Paint Fizzler** UCP:
 - Fully compatible with the original paint fizzler.
 
 The **Portal Condensation Grid** UCP: 
-A custom fizzler built off the default paint fizzler. Blocks portal shots and fizzles portals, but does not affect cubes. 
+- A custom fizzler built off the default paint fizzler. Blocks portal shots and fizzles portals, but does not affect cubes. 
 - Uses Portal 1 emitter models in all styles, except old Aperture. 
 - Comes with a 1997 quality guaranteed signage.
 
