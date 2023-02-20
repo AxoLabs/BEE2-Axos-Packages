@@ -22,4 +22,5 @@ The **Physics Obliteration Field** UCP:
 - Comes with a 1997 quality guaranteed signage. // Might want to make a signage that better indicates the field's functions
 - Known issue: Turrets from a turret dropper destroyed by this don't get respawned in the overgrown style. I do not plan to fix this for various reasons.
 
-![axo_fizzlers_demo](https://user-images.githubusercontent.com/125143965/220135945-b665c395-77e6-4fda-a8af-0fb79546c73d.png)
+
+![axo_fizzlers_demo_smoller](https://user-images.githubusercontent.com/125143965/220136513-fb76add1-c7e7-4b71-a272-30cf598dffa5.png)
