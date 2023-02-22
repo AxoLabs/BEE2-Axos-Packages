@@ -1,4 +1,4 @@
-![AxoLabs' UCPs](https://user-images.githubusercontent.com/125143965/220545110-793568b3-8d02-4ea6-88ce-740a6942d729.png)
+![AxoLabs' UCPs](https://user-images.githubusercontent.com/125143965/220545356-dc6fc292-efe7-4334-b8f5-97226796dd05.png)
 # BEE2-Axo's-Packages
 **U**ser **c**reated **p**ackages (UCPs) for BEEMod 2.4 made by AxoLabs.
 
