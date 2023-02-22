@@ -10,16 +10,16 @@ Supported styles: OG Clean, Clean and P1. Custom fizzlers have old AP styles emi
 
 If you want to suggest an enhancement, or report a bug, please read the **contributing guidelines**: https://github.com/AxoLabs/BEE2-Axos-Packages/blob/main/docs/CONTRIBUTING.md
 
-###The **Purple Paint Fizzler** UCP: 
+### The Purple Paint Fizzler UCP: 
 - A modified version of the default paint fizzler that is purple.
 - Fully compatible with the original paint fizzler.
 
-###The **Portal Condensation Grid** UCP: 
+### The Portal Condensation Grid UCP: 
 - A custom fizzler built off the default paint fizzler. Blocks portal shots and fizzles portals, but does not affect cubes. 
 - Uses Portal 1 emitter models in all styles, except old Aperture. 
 - Comes with a 1997 quality guaranteed signage.
 
-###The **Physics Obliteration Field** UCP: 
+### The Physics Obliteration Field UCP: 
 - A custom fizzler built off the default paint fizzler. Fizzles cubes as well as most physic objects, explodes turrets, and destroys energy pellets. Has no effect on the player or portals. Big thanks to Areng for helping me get it to work. 
 - Uses Portal 1 emitter models in all styles, except old Aperture. 
 - Comes with a 1997 quality guaranteed signage. // Might want to make a signage that better indicates the field's functions
