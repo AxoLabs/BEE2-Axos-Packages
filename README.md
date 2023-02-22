@@ -1,4 +1,4 @@
-![Aperture Logo](https://user-images.githubusercontent.com/125143965/220541079-69ccdb9b-80a6-48a1-8d36-ea79e052e3d2.png)
+![AxoLabs' UCPs](https://user-images.githubusercontent.com/125143965/220545110-793568b3-8d02-4ea6-88ce-740a6942d729.png)
 # BEE2-Axo's-Packages
 **U**ser **c**reated **p**ackages (UCPs) for BEEMod 2.4 made by AxoLabs.
 
