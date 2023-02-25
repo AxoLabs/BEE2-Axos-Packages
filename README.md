@@ -35,4 +35,4 @@ If you want to suggest an enhancement, or report a bug, please read the **contri
 - Uses the same instance for all types of gel.
 
 Screenshots:
-![axo_ucp_demo](https://user-images.githubusercontent.com/125143965/221342958-b868473d-54fd-48f4-9abd-efb9996478f8.png)
+![axo_ucps_demo](https://user-images.githubusercontent.com/125143965/221344062-7c74d8ed-becd-4f1d-919b-2a6ee4093d7a.png)
