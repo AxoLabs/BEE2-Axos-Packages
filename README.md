@@ -2,7 +2,7 @@
 # BEE2-Axo's-Packages
 Supported version of BEEMod: 2.4.43.0.
 
-Supported styles: OG Clean, Clean and P1. Custom fizzlers have old AP-styled emitters and icons, but no support for those styles beyond that is planned.
+Supported styles: OG Clean and P1. Custom fizzlers have old AP-styled emitters and icons, but no support for those styles beyond that is planned.
 
 *By the way, if you are going to use one of these in a puzzle, could you please credit me? I just want more people to know about these, up to you though :)*
 
