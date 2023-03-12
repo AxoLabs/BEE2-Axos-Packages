@@ -8,27 +8,34 @@ Supported styles: OG Clean and P1. Custom fizzlers have old AP-styled emitters a
 
 If you want to suggest an enhancement, or report a bug, please read the **contributing guidelines**: https://github.com/AxoLabs/BEE2-Axos-Packages/blob/main/docs/CONTRIBUTING.md
 
-### Purple Paint Fizzler: 
+#### Purple paint fizzler: 
 - A modified version of the default paint fizzler that is purple. Fully compatible with the original.
-### Portal Condensation Grid: 
+#### Portal condensation grid: 
 - A custom fizzler built off the default paint fizzler. Blocks portal shots and fizzles portals, but does not affect cubes. 
 - Comes with a 1997 quality guaranteed signage.
-### Physics Obliteration Field: 
+#### Physics obliteration field: 
 - A custom fizzler built off the default paint fizzler. Fizzles cubes as well as most physic objects, explodes turrets, and destroys energy pellets. Has no effect on the player or portals. Big thanks to Areng for helping me get it to work. 
 - Comes with a 1997 quality guaranteed signage.
-### Concentrated Particle Field:
+#### Concentrated particle field:
 - A custom fizzler originally made for PHOBoS. It is a combination of my Portal Condensation Grid and the Physics Repulsion Field.
 - Comes with a 1997 quality guaranteed signage.
-### Portal Support Grid
+#### Portal support grid
 - A custom fizzler that is essentially a toggle-able wall you can place portals on!
 - Inspired by the Portalable Field from the _Divinity_ series.
-### Portal Lights Enabler:
+#### Portal lights enabler:
 - A custom item made partially using BEEPKG that enables `r_portal_use_dlights` when placed in a map.
-### Cube Dropper Gel Droppers:
-- Custom variant of the gel dropper that uses a cube dropper model instead. Use `Cube Type` to select the gel dropper. Also has a `Start Enabled` option. BEEPKG was used to generate a package template for this item.
+#### Cube dropper gel Dropper:
+- A custom variant of the gel dropper that uses a cube dropper model instead. Use `Cube Type` to select the gel dropper. Also has a `Start Enabled` option. BEEPKG was used to generate a package template for this item.
 - Has styled variants for Clean styles and P1 style.
 - If set to drop Reflection Gel, it will pack the custom particles into the map.
 - Uses the same instance for all types of gel.
+#### Bomb protector
+- Causes `prop_exploding_futbol`s to become harmless.
+#### Reflection gel fixer
+- Changes the color of Reflection gel to be gray when splashed on surfaces and your face.
+#### AAAARRGGGHH Theraphy skybox
+- A custom 3D skybox, revealing the BTS areas of Aperture.
 
 Screenshots:
-![axo_ucps_demo_2](https://user-images.githubusercontent.com/125143965/223546419-0c38a4e0-13af-41b5-9725-4cb1824ca263.png)
+![axo_ucps_demo_3](https://user-images.githubusercontent.com/125143965/224567686-48fba1be-28b2-4b40-ada6-bcf922619cab.png)
+![argh_theraphy_demo](https://user-images.githubusercontent.com/125143965/224567695-5729fadb-869e-47ff-8d60-d2d351dca77b.png)
