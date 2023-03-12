@@ -17,7 +17,7 @@ Please check if an issue regarding a certain matter hasn't already been opened. 
 Please do not combine several bug reports/enhancement ideas into a single issue. While it may seem efficient, it also makes it a bit annoying to keep track of them.
 
 ### Use issues for their intended purpose.
-Please only open an issue if you want to suggest an enhancement to one of existing UCPs or want to report a bug. Do not use them as a discussion forum, or a place to suggest new packages. This also means you are expected to use the appropriate issue template.
+Please only open an issue if you want to suggest an enhancement to one of existing UCPs or want to report a bug. Do not use them as a discussion forum, or a place to suggest new items. This also means you are expected to use the appropriate issue template.
 
 ### Test bugs in the latest version.
 Please, when reporting a bug, make sure to test it in the latest *supported* version of BEEMod, and make sure you are using the latest version of the packages. I will not help you if either is outdated, as your problem may have been fixed in a newer release.
