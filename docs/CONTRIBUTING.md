@@ -16,8 +16,8 @@ Please check if an issue regarding a certain matter hasn't already been opened. 
 ### Do not combine issues.
 Please do not combine several bug reports/enhancement ideas into a single issue. While it may seem efficient, it also makes it a bit annoying to keep track of them.
 
-### Report issues in the issues section
-Please report any bugs or enhancement ideas in the issues section. I will not look into a bug that has not been reported there, no matter how severe it is.
+### Report bugs/suggest enhancements in the issues section
+Please report any bugs or enhancement ideas in the issues section. I will not look into a suggestion/bug that has not been reported there, no matter how severe it is.
 
 ### Use issues for their intended purpose.
 Please only open an issue if you want to suggest an enhancement to one of existing UCPs or want to report a bug. Do not use them as a discussion forum, or a place to suggest new items. This also means you are expected to use the appropriate issue template.
