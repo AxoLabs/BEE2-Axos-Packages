@@ -2,7 +2,7 @@
 # BEE2-Axo's-Packages
 Supported version of BEEMod: 2.4.43.0.
 
-Supported styles: OG Clean and P1. Custom fizzlers have old AP-styled emitters and icons, but no support for those styles beyond that is planned.
+Supported styles: OG Clean. Custom fizzlers have emitters styled for all styles, and cube dropper gel droppers have a P1-style variant, but no support for those styles beyond that is planned.
 
 *By the way, if you are going to use one of these in a puzzle, could you please credit me? I just want more people to know about these, up to you though :)*
 
@@ -31,10 +31,12 @@ If you want to suggest an enhancement, or report a bug, please read the **contri
 - Uses the same instance for all types of gel.
 #### Bomb protector
 - Causes `prop_exploding_futbol`s to become harmless.
+- Will be removed in 1.4.
 #### Reflection gel fixer
 - Changes the color of Reflection gel to be gray when splashed on surfaces and your face.
 #### AAAARRGGGHH Theraphy skybox
 - A custom 3D skybox, revealing the BTS areas of Aperture.
+- Will be removed in 1.4.
 
 Screenshots:
 ![axo_ucps_demo_3](https://user-images.githubusercontent.com/125143965/224567686-48fba1be-28b2-4b40-ada6-bcf922619cab.png)
