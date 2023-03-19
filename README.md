@@ -16,6 +16,7 @@ If you want to suggest an enhancement, or report a bug, please read the **contri
 #### Physics obliteration field: 
 - A custom fizzler built off the default paint fizzler. Fizzles cubes as well as most physic objects, explodes turrets, and destroys energy pellets. Has no effect on the player or portals. Big thanks to Areng for helping me get it to work. 
 - Comes with a 1997 quality guaranteed signage.
+- May be removed in 1.4 or 1.5.
 #### Concentrated particle field:
 - A custom fizzler originally made for PHOBoS. It is a combination of my Portal Condensation Grid and the Physics Repulsion Field.
 - Comes with a 1997 quality guaranteed signage.
