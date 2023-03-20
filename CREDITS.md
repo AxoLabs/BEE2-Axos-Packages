@@ -1,8 +1,8 @@
 **Areng** - Helped get the physics obliteration field and the Reflection gel fixer to work.
 
-**TeamSpen210** - Helped with the physics obliteration field, Schrodinger's cubes and the Reflection gel fixer.
+**TeamSpen210** - Helped with the (now removed) physics obliteration field, Schrodinger's cubes and the Reflection gel fixer.
 
-**PieCreeper** - Created the cooperative cube fixer, which was used as a base for the portal light enabler.
+**PieCreeper** - Created the cooperative cube fixer, which I used to find out how to make command-running items, like the portal light enabler.
 
 **IMyself** - Created the Boxiter, which I used to find out how to make a portable laser emitter + a cube dropper in order to make Schrödinger's cubes.
 
