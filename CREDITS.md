@@ -9,3 +9,5 @@
 **Trico_Everfire (System_Errorr)** - Helped with the Reflection gel fixer.
 
 **hikkigirl** - Helped with the Reflection gel fixer.
+
+***If anyone feels they should have been credited, but have been not, __please__ let me know***
