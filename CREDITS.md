@@ -1,6 +1,6 @@
 **Areng** - Helped get the physics obliteration field and the Reflection gel fixer to work.
 
-**TeamSpen210** - Helped with the physics obliteration field and the Reflection gel fixer.
+**TeamSpen210** - Helped with the physics obliteration field, Schrodinger's cubes and the Reflection gel fixer.
 
 **PieCreeper** - Created the cooperative cube fixer, which was used as a base of sorts for the portal light enabler.
 
