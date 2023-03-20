@@ -4,7 +4,9 @@
 
 **PieCreeper** - Created the cooperative cube fixer, which was used as a base for the portal light enabler.
 
-**Alexus** - Created the Windy sky skybox, used as a base for the AAAAAARRRRGGGGHH Theraphy skybox.
+**IMyself** - Created the Boxiter, which I used to find out how to make a portable laser emitter + a cube dropper in order to make Schrödinger's cubes.
+
+**Alexus** - Created the Windy sky skybox, used as a base for the (now removed) AAAAAARRRRGGGGHH Theraphy skybox.
 
 **Trico_Everfire (System_Errorr)** - Helped with the Reflection gel fixer.
 
