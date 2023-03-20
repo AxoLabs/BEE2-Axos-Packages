@@ -10,4 +10,4 @@
 
 **hikkigirl** - Helped with the Reflection gel fixer.
 
-***If anyone feels they should have been credited, but have been not, _please_ let me know***
+If anyone feels they should have been credited, but have been not, please let me know.
