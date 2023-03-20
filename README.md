@@ -13,10 +13,6 @@ If you want to suggest an enhancement, or report a bug, please read the **contri
 #### Portal condensation grid: 
 - A custom fizzler built off the default paint fizzler. Blocks portal shots and fizzles portals, but does not affect cubes. 
 - Comes with a 1997 quality guaranteed signage.
-#### Physics obliteration field: 
-- A custom fizzler built off the default paint fizzler. Fizzles cubes as well as most physic objects, explodes turrets, and destroys energy pellets. Has no effect on the player or portals. Big thanks to Areng for helping me get it to work. 
-- Comes with a 1997 quality guaranteed signage.
-- Will be removed in 1.4
 #### Concentrated particle field:
 - A custom fizzler originally made for PHOBoS. It is a combination of my Portal Condensation Grid and the Physics Repulsion Field.
 - Comes with a 1997 quality guaranteed signage.
@@ -30,15 +26,12 @@ If you want to suggest an enhancement, or report a bug, please read the **contri
 - Has styled variants for Clean styles and P1 style.
 - If set to drop Reflection Gel, it will pack the custom particles into the map.
 - Uses the same instance for all types of gel.
-#### Bomb protector
-- Causes `prop_exploding_futbol`s to become harmless.
-- Will be removed in 1.4.
 #### Reflection gel fixer
 - Changes the color of Reflection gel to be gray when splashed on surfaces and your face.
-#### AAAARRGGGHH Theraphy skybox
-- A custom 3D skybox, revealing the BTS areas of Aperture.
-- Will be removed in 1.4.
+#### Schrodinger's cubes
+- A cut testing element reimplemented by me from scratch. You can read about them here: https://tcrf.net/Portal_2#Schr.C3.B6dinger.27s_Cube
+- They are a bit buggy, but should work mostly fine.
 
 Screenshots:
-![axo_ucps_demo_3](https://user-images.githubusercontent.com/125143965/224567686-48fba1be-28b2-4b40-ada6-bcf922619cab.png)
-![argh_theraphy_demo](https://user-images.githubusercontent.com/125143965/224567695-5729fadb-869e-47ff-8d60-d2d351dca77b.png)
+![axo_ucps_demo_4](https://user-images.githubusercontent.com/125143965/226433477-fc777d2c-8d89-4985-b83b-ba01091a0184.png)
+![schrodingers_cube_demo_](https://user-images.githubusercontent.com/125143965/226433501-39a3009c-bffb-4769-b721-be644a88a920.png)
