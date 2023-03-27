@@ -15,7 +15,7 @@ If you want to suggest an enhancement, or report a bug, please read the **contri
 #### Cube dropper gel Dropper:
 - A custom variant of the gel dropper that uses a cube dropper model instead. Use `Cube Type` to select the gel dropper. Also has a `Start Enabled` option. BEEPKG was used to generate a package template for this item.
 - Has styled variants for Clean styles and P1 style.
-- In future updates, I plan to implement a way to control how heavy the gel flow is. The planned options are medium (current flow type), heavy (like in the Propulsion gel demonstration video), and bomb.
+- In future updates, I plan to implement a way to control how heavy the gel flow is. The planned options are medium (current flow type), heavy (like in the Propulsion gel demonstration video), and bomb. *This has been added in Version 1.5 Beta 3 Build 7, find it in the releases section.*
 #### Portal condensation grid: 
 - A custom fizzler. Blocks portal shots and fizzles portals, but does not affect cubes. 
 - Comes with a 1997 quality guaranteed signage.
