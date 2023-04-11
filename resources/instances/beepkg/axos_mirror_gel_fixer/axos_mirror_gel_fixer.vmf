@@ -1,0 +1,102 @@
+versioninfo
+{
+	"editorversion" "400"
+	"editorbuild" "8997"
+	"mapversion" "17"
+	"formatversion" "100"
+	"prefab" "0"
+}
+visgroups
+{
+}
+viewsettings
+{
+	"bSnapToGrid" "1"
+	"bShowGrid" "1"
+	"bShowLogicalGrid" "0"
+	"nGridSpacing" "64"
+	"bShow3DGrid" "0"
+}
+world
+{
+	"id" "1"
+	"mapversion" "17"
+	"classname" "worldspawn"
+	"detailmaterial" "detail/detailsprites"
+	"detailvbsp" "detail.vbsp"
+	"maxblobcount" "250"
+	"maxpropscreenwidth" "-1"
+	"skyname" "sky_black_nofog"
+}
+entity
+{
+	"id" "30"
+	"classname" "logic_relay"
+	"spawnflags" "0"
+	"StartDisabled" "0"
+	"targetname" "reset_noreload_relay"
+	connections
+	{
+		"OnTrigger" "mirror_gel_fixerFireUser301"
+		"OnUser1" "mirror_gel_fixerFireUser101"
+		"OnUser1" "mirror_gel_fixerFireUser231"
+	}
+	"origin" "0 0 0"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1000]"
+	}
+}
+entity
+{
+	"id" "2"
+	"classname" "point_clientcommand"
+	"targetname" "mirror_gel_fixer"
+	connections
+	{
+		"OnUser1" "mirror_gel_fixerCommandportal_paint_color 96 96 96 2550-1"
+		"OnUser1" "mirror_gel_fixerCommandspeed_paint_color 96 96 96 2550-1"
+		"OnUser1" "mirror_gel_fixerCommandsave gel_color_fix01"
+		"OnUser2" "mirror_gel_fixerCommandload gel_color_fix01"
+		"OnUser3" "mirror_gel_fixerCommandportal_paint_color 128 128 128 25501"
+		"OnUser3" "mirror_gel_fixerCommandspeed_paint_color 255 106 0 25501"
+	}
+	"origin" "0 0 0"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "11"
+	"classname" "logic_auto"
+	"spawnflags" "0"
+	connections
+	{
+		"OnMapSpawn" "reset_noreload_relayFireUser101"
+		"OnLoadGame" "reset_noreload_relayCancelPending0-1"
+	}
+	"origin" "0 0 0"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 500]"
+	}
+}
+cameras
+{
+	"activecamera" "-1"
+}
+cordons
+{
+	"active" "0"
+}
