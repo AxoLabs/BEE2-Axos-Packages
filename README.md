@@ -2,7 +2,7 @@
 # BEE2-Axo's-Packages
 Supported version of BEEMod: 2.4.43.0.
 
-Supported styles: OG Clean. Some items might have variants for other styles, but that does not mean they are supported.
+Supported styles: OG Clean. Some items might have variants for other styles, but usually it's because removing the styled variants takes more effort than keeping them.
 
 By the way, if you are going to use one or more of my items in a puzzle, I'd greatly appreciate being credited for making them.
 
