@@ -1,0 +1,9 @@
+"Properties"
+	{
+	"Authors"		"Carl Kenner; TeamSpen210; AxoLabs"
+	"Tags"			"BEE2; Custom; Gel; Fizzlers"
+	"Icon"
+		{
+			"0"	"clean/paint_fizzler_axo.png"
+		}
+	}
