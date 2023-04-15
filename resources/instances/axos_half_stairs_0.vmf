@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8997"
-	"mapversion" "2"
+	"mapversion" "3"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "2"
+	"mapversion" "3"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -34,7 +34,7 @@ world
 		{
 			"id" "1"
 			"plane" "(64 -64 -60) (-48 -64 -60) (-48 64 -60)"
-			"material" "BEE2/NO_PAINT/PLASTICWALL1970_02"
+			"material" "PLASTIC/PLASTICWALL001A"
 			"uaxis" "[0 1 0 64] 1"
 			"vaxis" "[1 0 0 59.7333] 0.9375"
 			"rotation" "0"
@@ -45,7 +45,7 @@ world
 		{
 			"id" "2"
 			"plane" "(64 64 -64) (-48 64 -64) (-48 -64 -64)"
-			"material" "BEE2/NO_PAINT/PLASTICWALL1970_02"
+			"material" "PLASTIC/PLASTICWALL001A"
 			"uaxis" "[0 1 0 64] 1"
 			"vaxis" "[1 0 0 59.7333] 0.9375"
 			"rotation" "0"
@@ -56,7 +56,7 @@ world
 		{
 			"id" "3"
 			"plane" "(64 -64 -64) (-48 -64 -64) (-48 -64 -60)"
-			"material" "BEE2/NO_PAINT/PLASTICWALL1970_02"
+			"material" "PLASTIC/PLASTICWALL001A"
 			"uaxis" "[-1 0 0 68.2667] 0.9375"
 			"vaxis" "[0 0 -1 0] 0.03125"
 			"rotation" "0"
@@ -67,7 +67,7 @@ world
 		{
 			"id" "4"
 			"plane" "(-48 64 -64) (64 64 -64) (64 64 -60)"
-			"material" "BEE2/NO_PAINT/PLASTICWALL1970_02"
+			"material" "PLASTIC/PLASTICWALL001A"
 			"uaxis" "[-1 0 0 68.2666] 0.9375"
 			"vaxis" "[0 0 -1 0] 0.03125"
 			"rotation" "0"
@@ -78,7 +78,7 @@ world
 		{
 			"id" "5"
 			"plane" "(-48 -64 -64) (-48 64 -64) (-48 64 -60)"
-			"material" "BEE2/NO_PAINT/PLASTICWALL1970_02"
+			"material" "PLASTIC/PLASTICWALL001A"
 			"uaxis" "[0 1 0 64] 1"
 			"vaxis" "[0 0 -1 0] 0.03125"
 			"rotation" "0"
@@ -89,7 +89,7 @@ world
 		{
 			"id" "6"
 			"plane" "(64 64 -64) (64 -64 -64) (64 -64 -60)"
-			"material" "BEE2/NO_PAINT/PLASTICWALL1970_02"
+			"material" "PLASTIC/PLASTICWALL001A"
 			"uaxis" "[0 1 0 64] 1"
 			"vaxis" "[0 0 -1 0] 0.03125"
 			"rotation" "0"
@@ -110,7 +110,7 @@ world
 		{
 			"id" "18"
 			"plane" "(64 -64 -8) (60 -64 -8) (60 64 -8)"
-			"material" "BEE2/NO_PAINT/PLASTICWALL1970_02"
+			"material" "PLASTIC/PLASTICWALL001A"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[-1 0 0 0] 0.25"
 			"rotation" "0"
@@ -121,7 +121,7 @@ world
 		{
 			"id" "17"
 			"plane" "(64 64 -60) (60 64 -60) (60 -64 -60)"
-			"material" "BEE2/NO_PAINT/PLASTICWALL1970_02"
+			"material" "PLASTIC/PLASTICWALL001A"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[-1 0 0 0] 0.25"
 			"rotation" "0"
@@ -132,7 +132,7 @@ world
 		{
 			"id" "16"
 			"plane" "(60 64 -60) (64 64 -60) (64 64 -8)"
-			"material" "BEE2/NO_PAINT/PLASTICWALL1970_02"
+			"material" "PLASTIC/PLASTICWALL001A"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -143,7 +143,7 @@ world
 		{
 			"id" "15"
 			"plane" "(64 -64 -60) (60 -64 -60) (60 -64 -8)"
-			"material" "BEE2/NO_PAINT/PLASTICWALL1970_02"
+			"material" "PLASTIC/PLASTICWALL001A"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -154,7 +154,7 @@ world
 		{
 			"id" "14"
 			"plane" "(64 64 -60) (64 -64 -60) (64 -64 -8)"
-			"material" "BEE2/NO_PAINT/PLASTICWALL1970_02"
+			"material" "PLASTIC/PLASTICWALL001A"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -165,7 +165,7 @@ world
 		{
 			"id" "13"
 			"plane" "(60 -64 -60) (60 64 -60) (60 64 -8)"
-			"material" "BEE2/NO_PAINT/PLASTICWALL1970_02"
+			"material" "PLASTIC/PLASTICWALL001A"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -794,7 +794,7 @@ world
 		{
 			"id" "125"
 			"plane" "(48 -64 -16) (32 -64 -16) (32 64 -16)"
-			"material" "BEE2/NO_PAINT/PLASTICWALL1970_02"
+			"material" "PLASTIC/PLASTICWALL001A"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -805,7 +805,7 @@ world
 		{
 			"id" "124"
 			"plane" "(32 64 -24) (32 64 -16) (32 -64 -16)"
-			"material" "BEE2/NO_PAINT/PLASTICWALL1970_02"
+			"material" "PLASTIC/PLASTICWALL001A"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -816,7 +816,7 @@ world
 		{
 			"id" "123"
 			"plane" "(48 64 -16) (32 64 -16) (32 64 -24)"
-			"material" "BEE2/NO_PAINT/PLASTICWALL1970_02"
+			"material" "PLASTIC/PLASTICWALL001A"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -827,7 +827,7 @@ world
 		{
 			"id" "122"
 			"plane" "(32 -64 -24) (32 -64 -16) (48 -64 -16)"
-			"material" "BEE2/NO_PAINT/PLASTICWALL1970_02"
+			"material" "PLASTIC/PLASTICWALL001A"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -838,7 +838,7 @@ world
 		{
 			"id" "121"
 			"plane" "(32 64 -24) (32 -64 -24) (48 -64 -16)"
-			"material" "BEE2/NO_PAINT/PLASTICWALL1970_02"
+			"material" "PLASTIC/PLASTICWALL001A"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -859,7 +859,7 @@ world
 		{
 			"id" "135"
 			"plane" "(32 -64 -24) (16 -64 -24) (16 64 -24)"
-			"material" "BEE2/NO_PAINT/PLASTICWALL1970_02"
+			"material" "PLASTIC/PLASTICWALL001A"
 			"uaxis" "[1 0 0 64] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -870,7 +870,7 @@ world
 		{
 			"id" "134"
 			"plane" "(16 64 -32) (16 64 -24) (16 -64 -24)"
-			"material" "BEE2/NO_PAINT/PLASTICWALL1970_02"
+			"material" "PLASTIC/PLASTICWALL001A"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 -32] 0.25"
 			"rotation" "0"
@@ -881,7 +881,7 @@ world
 		{
 			"id" "133"
 			"plane" "(32 64 -24) (16 64 -24) (16 64 -32)"
-			"material" "BEE2/NO_PAINT/PLASTICWALL1970_02"
+			"material" "PLASTIC/PLASTICWALL001A"
 			"uaxis" "[1 0 0 64] 0.25"
 			"vaxis" "[0 0 -1 -32] 0.25"
 			"rotation" "0"
@@ -892,7 +892,7 @@ world
 		{
 			"id" "132"
 			"plane" "(16 -64 -32) (16 -64 -24) (32 -64 -24)"
-			"material" "BEE2/NO_PAINT/PLASTICWALL1970_02"
+			"material" "PLASTIC/PLASTICWALL001A"
 			"uaxis" "[1 0 0 64] 0.25"
 			"vaxis" "[0 0 -1 -32] 0.25"
 			"rotation" "0"
@@ -903,7 +903,7 @@ world
 		{
 			"id" "131"
 			"plane" "(16 64 -32) (16 -64 -32) (32 -64 -24)"
-			"material" "BEE2/NO_PAINT/PLASTICWALL1970_02"
+			"material" "PLASTIC/PLASTICWALL001A"
 			"uaxis" "[1 0 0 64] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -924,7 +924,7 @@ world
 		{
 			"id" "145"
 			"plane" "(16 -64 -32) (0 -64 -32) (0 64 -32)"
-			"material" "BEE2/NO_PAINT/PLASTICWALL1970_02"
+			"material" "PLASTIC/PLASTICWALL001A"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -935,7 +935,7 @@ world
 		{
 			"id" "144"
 			"plane" "(0 64 -40) (0 64 -32) (0 -64 -32)"
-			"material" "BEE2/NO_PAINT/PLASTICWALL1970_02"
+			"material" "PLASTIC/PLASTICWALL001A"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
@@ -946,7 +946,7 @@ world
 		{
 			"id" "143"
 			"plane" "(16 64 -32) (0 64 -32) (0 64 -40)"
-			"material" "BEE2/NO_PAINT/PLASTICWALL1970_02"
+			"material" "PLASTIC/PLASTICWALL001A"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
@@ -957,7 +957,7 @@ world
 		{
 			"id" "142"
 			"plane" "(0 -64 -40) (0 -64 -32) (16 -64 -32)"
-			"material" "BEE2/NO_PAINT/PLASTICWALL1970_02"
+			"material" "PLASTIC/PLASTICWALL001A"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
@@ -968,7 +968,7 @@ world
 		{
 			"id" "141"
 			"plane" "(0 64 -40) (0 -64 -40) (16 -64 -32)"
-			"material" "BEE2/NO_PAINT/PLASTICWALL1970_02"
+			"material" "PLASTIC/PLASTICWALL001A"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -989,7 +989,7 @@ world
 		{
 			"id" "155"
 			"plane" "(0 -64 -40) (-16 -64 -40) (-16 64 -40)"
-			"material" "BEE2/NO_PAINT/PLASTICWALL1970_02"
+			"material" "PLASTIC/PLASTICWALL001A"
 			"uaxis" "[1 0 0 64] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -1000,7 +1000,7 @@ world
 		{
 			"id" "154"
 			"plane" "(-16 64 -48) (-16 64 -40) (-16 -64 -40)"
-			"material" "BEE2/NO_PAINT/PLASTICWALL1970_02"
+			"material" "PLASTIC/PLASTICWALL001A"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 -96] 0.25"
 			"rotation" "0"
@@ -1011,7 +1011,7 @@ world
 		{
 			"id" "153"
 			"plane" "(0 64 -40) (-16 64 -40) (-16 64 -48)"
-			"material" "BEE2/NO_PAINT/PLASTICWALL1970_02"
+			"material" "PLASTIC/PLASTICWALL001A"
 			"uaxis" "[1 0 0 64] 0.25"
 			"vaxis" "[0 0 -1 -96] 0.25"
 			"rotation" "0"
@@ -1022,7 +1022,7 @@ world
 		{
 			"id" "152"
 			"plane" "(-16 -64 -48) (-16 -64 -40) (0 -64 -40)"
-			"material" "BEE2/NO_PAINT/PLASTICWALL1970_02"
+			"material" "PLASTIC/PLASTICWALL001A"
 			"uaxis" "[1 0 0 64] 0.25"
 			"vaxis" "[0 0 -1 -96] 0.25"
 			"rotation" "0"
@@ -1033,7 +1033,7 @@ world
 		{
 			"id" "151"
 			"plane" "(-16 64 -48) (-16 -64 -48) (0 -64 -40)"
-			"material" "BEE2/NO_PAINT/PLASTICWALL1970_02"
+			"material" "PLASTIC/PLASTICWALL001A"
 			"uaxis" "[1 0 0 64] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -1054,7 +1054,7 @@ world
 		{
 			"id" "165"
 			"plane" "(-16 -64 -48) (-32 -64 -48) (-32 64 -48)"
-			"material" "BEE2/NO_PAINT/PLASTICWALL1970_02"
+			"material" "PLASTIC/PLASTICWALL001A"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -1065,7 +1065,7 @@ world
 		{
 			"id" "164"
 			"plane" "(-32 64 -56) (-32 64 -48) (-32 -64 -48)"
-			"material" "BEE2/NO_PAINT/PLASTICWALL1970_02"
+			"material" "PLASTIC/PLASTICWALL001A"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -1076,7 +1076,7 @@ world
 		{
 			"id" "163"
 			"plane" "(-16 64 -48) (-32 64 -48) (-32 64 -56)"
-			"material" "BEE2/NO_PAINT/PLASTICWALL1970_02"
+			"material" "PLASTIC/PLASTICWALL001A"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -1087,7 +1087,7 @@ world
 		{
 			"id" "162"
 			"plane" "(-32 -64 -56) (-32 -64 -48) (-16 -64 -48)"
-			"material" "BEE2/NO_PAINT/PLASTICWALL1970_02"
+			"material" "PLASTIC/PLASTICWALL001A"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -1098,7 +1098,7 @@ world
 		{
 			"id" "161"
 			"plane" "(-32 64 -56) (-32 -64 -56) (-16 -64 -48)"
-			"material" "BEE2/NO_PAINT/PLASTICWALL1970_02"
+			"material" "PLASTIC/PLASTICWALL001A"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -1119,7 +1119,7 @@ world
 		{
 			"id" "181"
 			"plane" "(-32 -64 -56) (-48 -64 -56) (-48 64 -56)"
-			"material" "BEE2/NO_PAINT/PLASTICWALL1970_02"
+			"material" "PLASTIC/PLASTICWALL001A"
 			"uaxis" "[1 0 0 64] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -1130,7 +1130,7 @@ world
 		{
 			"id" "180"
 			"plane" "(-48 64 -60) (-48 64 -56) (-48 -64 -56)"
-			"material" "BEE2/NO_PAINT/PLASTICWALL1970_02"
+			"material" "PLASTIC/PLASTICWALL001A"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 -32] 0.25"
 			"rotation" "0"
@@ -1141,7 +1141,7 @@ world
 		{
 			"id" "179"
 			"plane" "(-32 64 -56) (-48 64 -56) (-48 64 -60)"
-			"material" "BEE2/NO_PAINT/PLASTICWALL1970_02"
+			"material" "PLASTIC/PLASTICWALL001A"
 			"uaxis" "[1 0 0 64] 0.25"
 			"vaxis" "[0 0 -1 -32] 0.25"
 			"rotation" "0"
@@ -1152,7 +1152,7 @@ world
 		{
 			"id" "178"
 			"plane" "(-48 -64 -60) (-48 -64 -56) (-32 -64 -56)"
-			"material" "BEE2/NO_PAINT/PLASTICWALL1970_02"
+			"material" "PLASTIC/PLASTICWALL001A"
 			"uaxis" "[1 0 0 64] 0.25"
 			"vaxis" "[0 0 -1 -32] 0.25"
 			"rotation" "0"
@@ -1163,7 +1163,7 @@ world
 		{
 			"id" "177"
 			"plane" "(-40 -64 -60) (-32 -64 -56) (-32 64 -56)"
-			"material" "BEE2/NO_PAINT/PLASTICWALL1970_02"
+			"material" "PLASTIC/PLASTICWALL001A"
 			"uaxis" "[1 0 0 64] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -1174,7 +1174,7 @@ world
 		{
 			"id" "176"
 			"plane" "(-40 64 -60) (-48 64 -60) (-48 -64 -60)"
-			"material" "BEE2/NO_PAINT/PLASTICWALL1970_02"
+			"material" "PLASTIC/PLASTICWALL001A"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -1195,7 +1195,7 @@ world
 		{
 			"id" "197"
 			"plane" "(60 -64 -8) (48 -64 -8) (48 64 -8)"
-			"material" "BEE2/NO_PAINT/PLASTICWALL1970_02"
+			"material" "PLASTIC/PLASTICWALL001A"
 			"uaxis" "[1 0 0 -64] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -1206,7 +1206,7 @@ world
 		{
 			"id" "196"
 			"plane" "(48 64 -16) (48 64 -8) (48 -64 -8)"
-			"material" "BEE2/NO_PAINT/PLASTICWALL1970_02"
+			"material" "PLASTIC/PLASTICWALL001A"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 -96] 0.25"
 			"rotation" "0"
@@ -1217,7 +1217,7 @@ world
 		{
 			"id" "195"
 			"plane" "(60 64 -8) (48 64 -8) (48 64 -16)"
-			"material" "BEE2/NO_PAINT/PLASTICWALL1970_02"
+			"material" "PLASTIC/PLASTICWALL001A"
 			"uaxis" "[1 0 0 -64] 0.25"
 			"vaxis" "[0 0 -1 -96] 0.25"
 			"rotation" "0"
@@ -1228,7 +1228,7 @@ world
 		{
 			"id" "194"
 			"plane" "(48 -64 -16) (48 -64 -8) (60 -64 -8)"
-			"material" "BEE2/NO_PAINT/PLASTICWALL1970_02"
+			"material" "PLASTIC/PLASTICWALL001A"
 			"uaxis" "[1 0 0 -64] 0.25"
 			"vaxis" "[0 0 -1 -96] 0.25"
 			"rotation" "0"
@@ -1239,7 +1239,7 @@ world
 		{
 			"id" "193"
 			"plane" "(48 64 -16) (48 -64 -16) (60 -64 -10)"
-			"material" "BEE2/NO_PAINT/PLASTICWALL1970_02"
+			"material" "PLASTIC/PLASTICWALL001A"
 			"uaxis" "[1 0 0 -64] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -1250,7 +1250,7 @@ world
 		{
 			"id" "192"
 			"plane" "(60 -64 -10) (60 -64 -8) (60 64 -8)"
-			"material" "BEE2/NO_PAINT/PLASTICWALL1970_02"
+			"material" "PLASTIC/PLASTICWALL001A"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
