@@ -72,8 +72,10 @@
 				"Enable_cmd" "sprayer,Start,,0,-1"
 				"Enable_cmd" "bomb_maker,ForceSpawn,,0,-1"
 				"Enable_cmd" "bomb_detector,Disable,,0,-1"
+				"Enable_cmd" "dropper,Skin,1,0,-1"
 				"Disable_cmd" "sprayer,Stop,,0,-1"
 				"Disable_cmd" "bomb_detector,Enable,,0,-1"
+				"Disable_cmd" "dropper,Skin,0,0,-1"
 			}
 
 		}

@@ -2,17 +2,17 @@
 "Item"
 {
 	"ItemClass"	"ItemBase"
-	"Type"	"AXOS_SCHRODINGER_CUBE"
+	"Type"	"AXOS_SUSPENDED_PANEL"
 	"Editor"
 	{
 		"SubType"
 		{
-			"Name"				"Schrodinger's Cube Dropper"
-			"Model" { "ModelName"		"dropper.3ds" }
+			"Name"				"Suspended Panel"
+			"Model" { "ModelName"		"arm4_gls_90deg.3ds" }
 			"Palette"
 			{
-				"Tooltip"		"SCHRODINGER'S CUBE DROPPER"
-				"Image"			"palette/beepkg/axos_schrodinger_cube.vtf"
+				"Tooltip"		"SUSPENDED PANEL"
+				"Image"			"palette/axos_suspended_panel.vtf"
 			}
 			"Sounds"
 			{
@@ -30,10 +30,9 @@
 		}
 		
 		"MovementHandle"	"HANDLE_4_DIRECTIONS"
-		"InvalidSurface" 	"FLOOR WALL"
-		"DesiredFacing"		"DESIRES_DOWN"
-		"CanAnchorOnGoo"	"0"
-		"CanAnchorOnBarriers"	"0"
+		"DesiredFacing"		"DESIRES_ANYTHING"
+		"CanAnchorOnGoo"	"1"
+		"CanAnchorOnBarriers"	"1"
 	}
 	"Properties"
 	{
@@ -47,27 +46,13 @@
 			"DefaultValue" "0"
 			"Index" "2"
 		}
-		"StartEnabled"
-		{
-			"DefaultValue" "1"
-			"Index" "3"
-		}
-		"StartActive"
-		{
-			"DefaultValue" "1"
-			"Index" "4"
-		}
+		
 	}
 	"Exporting"
 	{
 		"Inputs"
 		{
-			"BEE2"
-			{
-				"Type"	"AND"
-				"Enable_cmd" "axo_catcher_model,dissolve,,0,-1"
-				"Enable_cmd" "drop_nonetheless,invalue,$start_active,0,-1"
-			}
+
 		}
 		"Outputs"
 		{
@@ -77,14 +62,14 @@
 		{
 			"0"
 			{
-				"Name" "instances/BEE2/beepkg/axos_schrodinger_cube/axos_schrodinger_cube_0.vmf"
+				"Name" "instances/BEE2/axos_suspended_panel_0.vmf"
 				"EntityCount"	"0"
 				"BrushCount"	"0" 
 				"BrushSideCount"	"0"
 			}
 			"1"
 			{
-				"Name" "instances/BEE2/beepkg/axos_schrodinger_cube/axos_schrodinger_cube_1.vmf"
+				"Name" "instances/BEE2/axos_suspended_panel_1.vmf"
 				"EntityCount"	"0"
 				"BrushCount"	"0" 
 				"BrushSideCount"	"0"

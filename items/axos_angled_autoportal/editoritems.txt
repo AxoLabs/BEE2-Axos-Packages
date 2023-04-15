@@ -2,17 +2,18 @@
 "Item"
 {
 	"ItemClass"	"ItemBase"
-	"Type"	"AXOS_SCHRODINGER_CUBE"
+	"Type"	"AXOS_ANGLED_AUTOPORTAL"
 	"Editor"
 	{
+		 
 		"SubType"
 		{
-			"Name"				"Schrodinger's Cube Dropper"
-			"Model" { "ModelName"		"dropper.3ds" }
+			"Name"				"Angled Autoportal"
+			"Model" { "ModelName"		"bee2_angled_45.mdl" }
 			"Palette"
 			{
-				"Tooltip"		"SCHRODINGER'S CUBE DROPPER"
-				"Image"			"palette/beepkg/axos_schrodinger_cube.vtf"
+				"Tooltip"		"ANGLED AUTOPORTAL"
+				"Image"			"palette/axos_angled_autoportal.vtf"
 			}
 			"Sounds"
 			{
@@ -30,10 +31,9 @@
 		}
 		
 		"MovementHandle"	"HANDLE_4_DIRECTIONS"
-		"InvalidSurface" 	"FLOOR WALL"
-		"DesiredFacing"		"DESIRES_DOWN"
-		"CanAnchorOnGoo"	"0"
-		"CanAnchorOnBarriers"	"0"
+		"DesiredFacing"		"DESIRES_ANYTHING"
+		"CanAnchorOnGoo"	"1"
+		"CanAnchorOnBarriers"	"1"
 	}
 	"Properties"
 	{
@@ -42,21 +42,12 @@
 			"DefaultValue"	"0"
 			"Index"	"1"
 		}
-		"StartReversed"
-		{
-			"DefaultValue" "0"
-			"Index" "2"
-		}
 		"StartEnabled"
 		{
-			"DefaultValue" "1"
-			"Index" "3"
+			"DefaultValue"	"1"
+			"Index"	"2"
 		}
-		"StartActive"
-		{
-			"DefaultValue" "1"
-			"Index" "4"
-		}
+
 	}
 	"Exporting"
 	{
@@ -64,27 +55,24 @@
 		{
 			"BEE2"
 			{
-				"Type"	"AND"
-				"Enable_cmd" "axo_catcher_model,dissolve,,0,-1"
-				"Enable_cmd" "drop_nonetheless,invalue,$start_active,0,-1"
+			"Type"		"AND"
+			"InvertVar"	"$start_enabled"
+			"SpawnFire"	"always"
+			"Enable_Cmd"	"portal_spawner,ForceSpawn,,0.00,-1"
+			"Enable_Cmd"	"portal,SetActivatedState,1,0.10,-1"
+			"Enable_Cmd"	"emitter_frame,Skin,2,0.00,-1"
+			"Enable_Cmd"	"shake,StartShake,,0.00,-1"
+			"Enable_Cmd"	"shake,StopShake,,1.00,-1"
+			"Disable_Cmd"	"portal,SetActivatedState,0,0.00,-1"
+			"Disable_Cmd"	"emitter_frame,Skin,0,0.00,-1"
 			}
 		}
-		"Outputs"
-		{
 
-		}
 		"Instances"
 		{
 			"0"
 			{
-				"Name" "instances/BEE2/beepkg/axos_schrodinger_cube/axos_schrodinger_cube_0.vmf"
-				"EntityCount"	"0"
-				"BrushCount"	"0" 
-				"BrushSideCount"	"0"
-			}
-			"1"
-			{
-				"Name" "instances/BEE2/beepkg/axos_schrodinger_cube/axos_schrodinger_cube_1.vmf"
+				"Name" "instances/BEE2/axos_angled_autoportal.vmf"
 				"EntityCount"	"0"
 				"BrushCount"	"0" 
 				"BrushSideCount"	"0"
@@ -100,6 +88,7 @@
 				"Pos"				"-1 3 0"
 				"SignageOffset"		"-2 2 0"
 				"Priority"  "0"
+				"GroupID"   "1"
 			}
 			"Point"
 			{
@@ -107,7 +96,9 @@
 				"Pos"				"-1 4 0"
 				"SignageOffset"		"-2 5 0"
 				"Priority"  "0"
+				"GroupID"   "1"
 			}
+
 			// right
 			"Point"
 			{
@@ -115,6 +106,7 @@
 				"Pos"				"8 3 0"
 				"SignageOffset"		"9 2 0"
 				"Priority"  "0"
+				"GroupID"   "1"
 			}
 			"Point"
 			{
@@ -122,14 +114,25 @@
 				"Pos"				"8 4 0"
 				"SignageOffset"		"9 5 0"
 				"Priority"  "0"
+				"GroupID"   "1"
 			}
+
 			// up
+			"Point"
+			{
+				"Dir"				"0 1 0"
+				"Pos"				"1 -1 0"
+				"SignageOffset"		"0 -2 0"
+				"Priority"  "0"
+				"GroupID"   "1"
+			}
 			"Point"
 			{
 				"Dir"				"0 1 0"
 				"Pos"				"3 -1 0"
 				"SignageOffset"		"2 -2 0"
 				"Priority"  "0"
+				"GroupID"   "1"
 			}
 			"Point"
 			{
@@ -137,14 +140,33 @@
 				"Pos"				"4 -1 0"
 				"SignageOffset"		"5 -2 0"
 				"Priority"  "0"
+				"GroupID"   "1"
 			}
+			"Point"
+			{
+				"Dir"				"0 1 0"
+				"Pos"				"6 -1 0"
+				"SignageOffset"		"7 -2 0"
+				"Priority"  "0"
+				"GroupID"   "1"
+			}
+
 			// down
+			"Point"
+			{
+				"Dir"				"0 -1 0"
+				"Pos"				"1 8 0"
+				"SignageOffset"		"0 9 0"
+				"Priority"  "0"
+				"GroupID"   "1"
+			}
 			"Point"
 			{
 				"Dir"				"0 -1 0"
 				"Pos"				"3 8 0"
 				"SignageOffset"		"2 9 0"
 				"Priority"  "0"
+				"GroupID"   "1"
 			}
 			"Point"
 			{
@@ -152,6 +174,15 @@
 				"Pos"				"4 8 0"
 				"SignageOffset"		"5 9 0"
 				"Priority"  "0"
+				"GroupID"   "1"
+			}
+			"Point"
+			{
+				"Dir"				"0 -1 0"
+				"Pos"				"6 8 0"
+				"SignageOffset"		"7 9 0"
+				"Priority"  "0"
+				"GroupID"   "1"
 			}
 		}
 		"TargetName"	"name"
