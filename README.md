@@ -20,7 +20,7 @@ A custom variant of the gel dropper that uses a cube dropper model instead.
 - `Cube type` controls the type of the gel the dropper drops.
 - `Button type` controls the gel flow.
 - `Start enabled` controls whether the dropper starts active or not.
-### Personalized hazard identification boards
+### Personalized hazard identification board
 A test sign that can be easily customized. Read the `Instructions.txt` file carefully for more info.
 - Use the Sign Maker to generate a template for this item to load: https://developer.valvesoftware.com/wiki/Sign_Maker
 ### Suspended panel
@@ -61,4 +61,3 @@ Screenshots:
 ![stairs_and_protruding_surfaces_2](https://user-images.githubusercontent.com/125143965/232250599-b5af7812-15c9-4db5-92e2-0fec2808f7ff.png)
 ![roundabout_02](https://user-images.githubusercontent.com/125143965/232250611-e57537eb-6dec-448d-a9fc-fa51fa40a7d2.png)
 ![axolabs_ucps_5](https://user-images.githubusercontent.com/125143965/229373547-aa5b2f9e-1cde-40d2-9caa-dff0f6453edd.png)
-
