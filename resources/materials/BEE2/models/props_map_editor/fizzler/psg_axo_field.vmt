@@ -1,6 +1,0 @@
-UnlitGeneric
-	{
-	$basetexture "BEE2/models/props_map_editor/fizzler/psg_axo"
-	$model 1
-	$AlphaTest 1
-	}
