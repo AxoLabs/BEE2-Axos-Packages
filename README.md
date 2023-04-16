@@ -4,7 +4,7 @@ Supported version of BEEMod: 2.4.43.0.
 
 Supported styles: OG Clean. Some items might have variants for other styles, but usually it's because removing the styled variants takes more effort than keeping them.
 
-By the way, if you are going to use one or more of my items in a puzzle, I'd greatly appreciate being credited for making them.
+By the way, if you are going to use one or more of my items in a map, I'd greatly appreciate being credited for making them.
 
 If you want to suggest an enhancement, or report a bug, please read the **contributing guidelines**: https://github.com/AxoLabs/BEE2-Axos-Packages/blob/main/docs/CONTRIBUTING.md
 
