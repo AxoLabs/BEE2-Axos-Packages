@@ -16,4 +16,6 @@
 
 **Carl Kenner** - Made the paint fizzler, which I have repurposed as a base for my custom fizzlers.
 
+**Drgregs** - Made the broken observation room, which I used to find out how to make items change their instance depending on whether a property is checked or not.
+
 If anyone feels they should have been credited, but have been not, please let me know.
