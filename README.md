@@ -42,9 +42,6 @@ A set of static stairs which are only half a voxel high. You can line them next 
 ### Portal condensation grid
 A custom fizzler. Blocks portal shots and fizzles portals, but does not affect cubes. 
 - Comes with a 1997 quality guaranteed signage.
-### Portal support grid
-A custom fizzler that is essentially a toggle-able wall you can place portals on!
-- Inspired by the Portalable Field from the _Divinity_ series.
 ### Concentrated particle field:
 A custom fizzler originally made for PHOBoS. It is a combination of my Portal Condensation Grid and the Physics Repulsion Field.
 - Comes with a 1997 quality guaranteed signage.
