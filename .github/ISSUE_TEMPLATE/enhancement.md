@@ -13,5 +13,5 @@ A clear, detailed, and understandable description of your idea for an enhancemen
 ### Why do you think this should be added
 Explain why do you think this should be implemented.
 
-### How could this enhancement be implemented
-Optional, describe how would this enhancement work on the technical side of things.
+### Additional information
+Any sort of additional, related information that you'd like to provide. Optionally, you can even describe how would this enhancement work on the technical side of things.
