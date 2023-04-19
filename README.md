@@ -37,7 +37,7 @@ An orange autoportal mounted on an angled surface.
 ### Small stairs
 A set of static stairs, shrunk down to fit a single voxel.
 ### Half stairs
-A set of static stairs which are only half a voxel high. You can line them next to each other so that they reach a full foxel of height.
+A set of static stairs which are only half a voxel high. You can line them next to each other so that they reach a full voxel of height.
 - `Start reversed` controls which part of the voxel they occup: The bottom, or the top.
 ### Portal condensation grid
 A custom fizzler. Blocks portal shots and fizzles portals, but does not affect cubes. 
