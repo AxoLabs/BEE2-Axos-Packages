@@ -57,4 +57,4 @@ Screenshots:
 ![autoportal_and_paint_bombs_2](https://user-images.githubusercontent.com/125143965/232250545-06216fd3-c1d2-48b4-a1cc-e3fd5d2fd861.png)
 ![stairs_and_protruding_surfaces_2](https://user-images.githubusercontent.com/125143965/232250599-b5af7812-15c9-4db5-92e2-0fec2808f7ff.png)
 ![roundabout_02](https://user-images.githubusercontent.com/125143965/232250611-e57537eb-6dec-448d-a9fc-fa51fa40a7d2.png)
-![axolabs_ucps_5](https://user-images.githubusercontent.com/125143965/229373547-aa5b2f9e-1cde-40d2-9caa-dff0f6453edd.png)
+![axolabs_ucps_6](https://user-images.githubusercontent.com/125143965/233158670-3bdc5986-e5e8-4a96-9ffc-f828fa559be2.png)
