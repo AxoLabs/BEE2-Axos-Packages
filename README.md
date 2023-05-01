@@ -63,7 +63,7 @@ Changes the color of Reflection gel to be gray when splashed on surfaces and you
 ![schrodinger's_cubes](https://user-images.githubusercontent.com/125143965/235433342-4fff0be9-8e95-4355-9c35-562f04444b30.png)
 *Suspended panels*
 ![suspended_panels](https://user-images.githubusercontent.com/125143965/235435765-9598e6a9-588e-4260-8a25-b1b29f8b33d4.png)
-*Hybrid style in action*
+*Hybrid style in action [Map](https://steamcommunity.com/sharedfiles/filedetails/?id=2961094236)*
 ![hybrid_style_2](https://user-images.githubusercontent.com/125143965/235436555-d9f7ef68-f394-46f6-b2d9-48bb184c639d.png)
 *Hybrid style's exit corridor 4#*
 ![hybrid_style_4](https://user-images.githubusercontent.com/125143965/235436348-02d82d12-6b9f-4592-8985-22dfd66d75bf.png)
