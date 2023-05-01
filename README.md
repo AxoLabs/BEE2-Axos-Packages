@@ -69,13 +69,9 @@ Changes the color of Reflection gel to be gray when splashed on surfaces and you
 ![hybrid_style_4](https://user-images.githubusercontent.com/125143965/235436348-02d82d12-6b9f-4592-8985-22dfd66d75bf.png)
 *Stair variants*
 ![stair_variants](https://user-images.githubusercontent.com/125143965/235435948-5cadf695-c126-4ea1-a83b-29da3c0acefa.png)
-*Schrödinger's cubes alongside some geometry items*
-![schrodinger's_cubes_and_geometry](https://user-images.githubusercontent.com/125143965/235432974-71fce47e-cc7b-47ed-a023-f11755958695.png)
 *Autoportal variants*
 ![autoportal_variants](https://user-images.githubusercontent.com/125143965/235436062-9aa1d682-ba51-44af-886d-fd0b39df4935.png)
 *Hybrid style's entrance corridor 6#*
 ![hybrid_style_3](https://user-images.githubusercontent.com/125143965/235433086-73aefefa-2c79-47df-b3f7-7f2defad46aa.png)
-*Protruding autoportal, protruding surface, and a cube dropper gel dropper dropping a gel bomb*
-![autoportals_and_gel_bombs](https://user-images.githubusercontent.com/125143965/235436211-0b3e0a82-2925-4031-aaf1-f0b87309592d.png)
 *An unnecessarily complicated setup of Schrödinger's cubes used to activate an unlinked autoportal*
 ![schrodinger's_cubes_and_unlinked_autoportals](https://user-images.githubusercontent.com/125143965/235436489-838b4939-b813-49e8-bead-19f03c710845.png)
