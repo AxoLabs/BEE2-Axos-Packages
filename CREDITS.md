@@ -1,4 +1,4 @@
-Here, you can find everyone who has contributed to the packages' development in some way.
+Here, you can find everyone who has contributed to the packages in any way.
 
 **Areng** - Helped with the (now removed) physics obliteration field and the Reflection gel fixer.
 
