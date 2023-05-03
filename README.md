@@ -25,6 +25,11 @@ A style that aims to combine Portal 1's and Portal 2's aesthetical styles. Inspi
 - Singleplayer entry and exit corridors have been largely overhauled.
 - Portal 1-esque fizzlers are used used.
 - And a lot more.
+### Large glass panels
+A larger, unembedded version of the normal glass panel.
+- **Start deployed** controls whether the panel starts raised/extended or not.
+- **Start reversed** when checked, switches to the 128x256 model.
+- If input B is used, instead of raising by 90 degrees, upon activation, the panel will extend by a voxel.
 ### Cube dropper gel dropper
 A custom variant of the gel dropper that uses a cube dropper model instead.
 - **Cube type** controls the type of the gel the dropper drops.
@@ -33,9 +38,6 @@ A custom variant of the gel dropper that uses a cube dropper model instead.
 ### Personalized hazard identification board
 A test sign that can be easily customized. Read the `Instructions.txt` file carefully for more info.
 - Use Omnicoder's Sign Maker to generate a template for this item to load: https://developer.valvesoftware.com/wiki/Sign_Maker
-### Suspended panel
-A surface held by a panel a voxel above the ground.
-- Check **start reversed** to make it non-portalable.
 ### Protruding surface
 A portalable surface, protruding out a wall. Comes with a powerful portal magnet implemented into it. **Start reversed** makes the plastic textures darker.
 ### Autoportal variants
@@ -47,6 +49,9 @@ A portalable surface, protruding out a wall. Comes with a powerful portal magnet
 - Small stairs, which are a set of static stairs, shrunk down to fit a single voxel.
 - Half stairs, a set of static stairs which are only half a voxel high. You can line them next to each other so that they reach a full voxel of height. **Start active** controls which part of the voxel they occup: The bottom, or the top.
 - Both items have a **start reversed** option, which when checked makes the plastic textures darker.
+### Suspended panel
+A surface held by a panel a voxel above the ground.
+- Check **start reversed** to make it non-portalable.
 ### New fizzlers
 - Portal condensation grid, blocks portal shots and fizzles portals, but does not affect cubes. Comes with a 1997 quality guaranteed signage.
 - Concentrated particle field, originally made for PHOBoS. It is a combination of my Portal Condensation Grid and the Physics Repulsion Field. Also comes with a 1997 quality guaranteed signage.
@@ -69,8 +74,8 @@ Changes the color of Reflection gel to be gray when splashed on surfaces and you
 ![hybrid_style_4](https://user-images.githubusercontent.com/125143965/235436348-02d82d12-6b9f-4592-8985-22dfd66d75bf.png)
 *Stair variants*
 ![stair_variants](https://user-images.githubusercontent.com/125143965/235435948-5cadf695-c126-4ea1-a83b-29da3c0acefa.png)
-*Schrödinger's cubes alongside some geometry items*
-![schrodinger's_cubes_and_geometry](https://user-images.githubusercontent.com/125143965/235432974-71fce47e-cc7b-47ed-a023-f11755958695.png)
+*Large glass panels*
+![large_glass_panels](https://user-images.githubusercontent.com/125143965/235834993-7876ae42-6ba3-4040-83c6-bc95a9bccd55.png)
 *Autoportal variants*
 ![autoportal_variants](https://user-images.githubusercontent.com/125143965/235436062-9aa1d682-ba51-44af-886d-fd0b39df4935.png)
 *Hybrid style's entrance corridor 6#*
@@ -79,3 +84,5 @@ Changes the color of Reflection gel to be gray when splashed on surfaces and you
 ![autoportals_and_gel_bombs](https://user-images.githubusercontent.com/125143965/235436211-0b3e0a82-2925-4031-aaf1-f0b87309592d.png)
 *An unnecessarily complicated setup of Schrödinger's cubes used to activate an unlinked autoportal*
 ![schrodinger's_cubes_and_unlinked_autoportals](https://user-images.githubusercontent.com/125143965/235436489-838b4939-b813-49e8-bead-19f03c710845.png)
+*Hybrid style's white tile textures*
+![hybrid_style_8](https://user-images.githubusercontent.com/125143965/235835074-b24ca977-4d24-4536-8d46-8bfa76fe36e0.png)
