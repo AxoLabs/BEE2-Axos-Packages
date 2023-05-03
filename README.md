@@ -84,5 +84,5 @@ Changes the color of Reflection gel to be gray when splashed on surfaces and you
 ![autoportals_and_gel_bombs](https://user-images.githubusercontent.com/125143965/235436211-0b3e0a82-2925-4031-aaf1-f0b87309592d.png)
 *An unnecessarily complicated setup of Schrödinger's cubes used to activate an unlinked autoportal*
 ![schrodinger's_cubes_and_unlinked_autoportals](https://user-images.githubusercontent.com/125143965/235436489-838b4939-b813-49e8-bead-19f03c710845.png)
-*Hybrid style's white tile textures*
+*Hybrid style's white tile textures // To do: Update other preview images to include these as well.*
 ![hybrid_style_8](https://user-images.githubusercontent.com/125143965/235835074-b24ca977-4d24-4536-8d46-8bfa76fe36e0.png)
