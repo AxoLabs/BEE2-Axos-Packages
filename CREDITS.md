@@ -1,3 +1,5 @@
+Here, you can find everyone who has contributed to the packages' development in some way.
+
 **Areng** - Helped with the (now removed) physics obliteration field and the Reflection gel fixer.
 
 **TeamSpen210** - Helped with the (now removed) physics obliteration field, Schrödinger's cubes and the Reflection gel fixer. Made the paint fizzler, which I have repurposed as a base for my custom fizzlers.
@@ -19,5 +21,7 @@
 **Drgregs** - Made the broken observation room, which I used to find out how to make items change their instance depending on whether a property is checked or not.
 
 **Zepalesque** - Made the Portal: Enrichment mod, which inspired me to make the hybrid style. Check out their videos [here](https://www.youtube.com/playlist?list=PLJy18hkx9K6090cusjxz057iYOgw1k4_x).
+
+**BurningCakeDoesAche** - The "Hybrid" map, which inspired the hybrid style's name.
 
 If anyone feels they should have been credited, but have been not, please let me know.
