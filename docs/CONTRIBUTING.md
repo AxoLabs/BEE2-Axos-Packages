@@ -17,10 +17,13 @@ Please check if an issue regarding a certain matter hasn't already been opened. 
 Please do not combine several bug reports/enhancement ideas into a single issue. While it may seem efficient, it also makes it a bit annoying to keep track of them.
 
 ### Do not spam issues.
-Don't open five issues at once, especially if it's to report known bugs or suggest enhancement that are **really** obvious and likely haven't been added due to a good reason. Issues that break this will be closed immediately.
+Don't open five issues at once, especially if it's to report known bugs or suggest enhancement that are **really** obvious and likely haven't been added due to a good reason. Opening issues for the slightest, most insignificant bugs will also count as spam.
 
 ### Report bugs/suggest enhancements in the issues section
 Please report any bugs or enhancement ideas in the issues section. I will not look into a suggestion/bug that has not been reported there, no matter how severe it is.
+
+### Know what you are talking about
+Unless you have experience with how Portal 2 works, I kindly ask you not to propose 'solutions' to bugs, or try to 'help' with fixing them.
 
 ### Use issues for their intended purpose.
 Please only open an issue if you want to suggest an enhancement to one of existing UCPs or want to report a bug. Do not use them as a discussion forum, or a place to suggest new items. This also means you are expected to use the appropriate issue template.
