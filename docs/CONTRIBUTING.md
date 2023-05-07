@@ -1,5 +1,5 @@
 # AxoLabs' UCP Contributing Guidelines
-Did you find a bug in the UCP, or do you want to suggest an enhancement to the package? If so, I'd greatly appreciate it if you could take the time to read this. It is up to you whether you read the guidelines or not, but if you choose not to do so, know it does not justify not following them. I thank you in advance.
+Did you find a bug in one of the UCPs that's problematic, or do you want to suggest an enhancement to the package? If so, I'd greatly appreciate it if you could take the time to read this. It is up to you whether you read the guidelines or not, but if you choose not to do so, know it does not justify not following them. I thank you in advance.
 
 Issues that do not follow these guidelines will be closed, and repeatedly failing to follow these will result in your account getting banned from the repository.
 
@@ -8,16 +8,16 @@ Please describe issues and enhancements as clearly as possible. Keep the issue e
 You are expected to reply if asked for more information. 
 
 ### Do not reopen issues.
-If your issue is closed, it is a deliberate decision made by me, and re-opening it will not do anything. This also means you shouldn't comment on closed issues.
+If your issue is closed, it is a deliberate decision made by me, and re-opening it will not do you any good. This also means you shouldn't comment on closed issues.
 
 ### Do not create duplicate issues.
 Please check if an issue regarding a certain matter hasn't already been opened. If it was, do not create another one. Duplicate issues will be closed immediately.
 
 ### Do not combine issues.
-Please do not combine several bug reports/enhancement ideas into a single issue. While it may seem efficient, it also makes it a bit annoying to keep track of them.
+Please do not combine several bug reports/enhancement ideas into a single issue. While it may seem efficient, it also makes it annoying to keep track of them.
 
 ### Do not spam issues.
-Don't open five issues at once, especially if it's to report known bugs or suggest enhancement that are **really** obvious and likely haven't been added due to a good reason. Opening issues for the slightest, most insignificant bugs will also count as spam.
+Don't open five issues at once, especially if it's to report known bugs or suggest enhancement that are **really** obvious and likely haven't been added due to a good reason, or are almost certainly already planned, and possibly being worked on. Opening issues for the slightest, most insignificant bugs that have no impact on an item's functionality will also count as spam.
 
 ### Report bugs/suggest enhancements in the issues section
 Please report any bugs or enhancement ideas in the issues section. I will not look into a suggestion/bug that has not been reported there, no matter how severe it is.
