@@ -30,6 +30,8 @@ A larger, unembedded version of the normal glass panel.
 - **Start deployed** controls whether the panel starts raised/extended or not.
 - **Start reversed** when checked, switches to the 128x256 model.
 - If input B is used, instead of raising by 90 degrees, upon activation, the panel will extend by a voxel.
+### Cube hole
+A hole cubes and such can pass through, but the player can't.
 ### Cube dropper gel dropper
 A custom variant of the gel dropper that uses a cube dropper model instead.
 - **Cube type** controls the type of the gel the dropper drops.
@@ -37,7 +39,7 @@ A custom variant of the gel dropper that uses a cube dropper model instead.
 - **Start enabled** controls whether the dropper starts active or not.
 ### Personalized hazard identification board
 A test sign that can be easily customized. Read the `Instructions.txt` file carefully for more info.
-- Use Omnicoder's Sign Maker to generate a template for this item to load: https://developer.valvesoftware.com/wiki/Sign_Maker
+- Use Omnicoder's Sign Maker to generate a template for this item to load: https://developer.valvesoftware.com/wiki/Sign_Maker (Important note: The Sign Maker wasn't made or worked on by me).
 ### Protruding surface
 A portalable surface, protruding out a wall. Comes with a powerful portal magnet implemented into it. **Start reversed** makes the plastic textures darker.
 ### Autoportal variants
@@ -46,22 +48,19 @@ A portalable surface, protruding out a wall. Comes with a powerful portal magnet
 - Unlinked autoportal, an autoportal that is not linked to your portal gun. Use the **timer** to select the linkage ID, and **start reversed** to control whether the portal is orange or blue.
 - For all three, the start **start enabled** option controls whether the portal starts active or not.
 ### Stair variants
-- Small stairs, which are a set of static stairs, shrunk down to fit a single voxel.
-- Half stairs, a set of static stairs which are only half a voxel high. You can line them next to each other so that they reach a full voxel of height. **Start active** controls which part of the voxel they occup: The bottom, or the top.
-- Both items have a **start reversed** option, which when checked makes the plastic textures darker.
+An item that can either appear as a set of stairs that fit a single voxel, or a set of stairs that are only half a voxel high. 
+- Place the item on metal tiles to make it darker.
 ### Suspended panel
 A surface held by a panel a voxel above the ground.
 - Check **start reversed** to make it non-portalable.
-### New fizzlers
-- Portal condensation grid, blocks portal shots and fizzles portals, but does not affect cubes. Comes with a 1997 quality guaranteed signage.
-- Concentrated particle field, originally made for PHOBoS. It is a combination of my Portal Condensation Grid and the Physics Repulsion Field. Also comes with a 1997 quality guaranteed signage.
-- Purple paint fizzler, a modified version of the default paint fizzler that is purple. Fully compatible with the original. It was also used as a base for all of my custom fizzlers, and was the seed my packages sprouted from.
+### Purple paint fizzler
+A modified version of the default paint fizzler that is purple. The first item made for this package.
 ### Reflection gel fixer
 Changes the color of Reflection gel to be gray when splashed on surfaces and your face.
 
 ## Screenshots:
-*New fizzlers, cube dropper gel droppers and recolored reflection gel*
-![axos_ucps_v7](https://user-images.githubusercontent.com/125143965/235433603-a9cf4417-7918-4150-9b5f-051495929abf.png)
+*Purple paint fizzler, cube dropper gel droppers and recolored reflection gel*
+![axos_ucps_v8](https://user-images.githubusercontent.com/125143965/236700629-a61780be-dae8-4160-874b-87c1ba39e3ff.png)
 *Hybrid style's preview image*
 ![hybrid_style_1](https://user-images.githubusercontent.com/125143965/235435706-d7532228-1b74-4292-944e-67f6d10d2f16.png)
 *Schrödinger's cubes*
@@ -80,9 +79,9 @@ Changes the color of Reflection gel to be gray when splashed on surfaces and you
 ![autoportal_variants](https://user-images.githubusercontent.com/125143965/235436062-9aa1d682-ba51-44af-886d-fd0b39df4935.png)
 *Hybrid style's entrance corridor 6#*
 ![hybrid_style_3](https://user-images.githubusercontent.com/125143965/235433086-73aefefa-2c79-47df-b3f7-7f2defad46aa.png)
+*Cube hole*
+![cube_hole](https://user-images.githubusercontent.com/125143965/236700207-e3dcbafa-d8a3-406c-b0b0-25c444ef32c3.png)
 *Protruding autoportal, protruding surface, and a cube dropper gel dropper dropping a gel bomb*
 ![autoportals_and_gel_bombs](https://user-images.githubusercontent.com/125143965/235436211-0b3e0a82-2925-4031-aaf1-f0b87309592d.png)
 *An unnecessarily complicated setup of Schrödinger's cubes used to activate an unlinked autoportal*
 ![schrodinger's_cubes_and_unlinked_autoportals](https://user-images.githubusercontent.com/125143965/235436489-838b4939-b813-49e8-bead-19f03c710845.png)
-*Hybrid style's white tile textures // To do: Update other preview images to include these as well.*
-![hybrid_style_8](https://user-images.githubusercontent.com/125143965/235835074-b24ca977-4d24-4536-8d46-8bfa76fe36e0.png)
