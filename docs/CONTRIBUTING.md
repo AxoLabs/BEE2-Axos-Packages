@@ -1,7 +1,7 @@
 # AxoLabs' UCP Contributing Guidelines
 Did you find a bug in the UCP, or do you want to suggest an enhancement to the package? If so, I'd greatly appreciate it if you could take the time to read this. It is up to you whether you read the guidelines or not, but if you choose not to do so, know it does not justify not following them. I thank you in advance.
 
-Issues that do not follow these guidelines will be closed, and in extreme cases you may get banned from the repository.
+Issues that do not follow these guidelines will be closed, and repeatedly failing to follow these will result in your account getting banned from the repository.
 
 ### Keep issues clear and understandable.
 Please describe issues and enhancements as clearly as possible. Keep the issue easily readable and understandable, and provide as much information as you can. Unclear, sloppily written issues are of no use and will be closed.
@@ -30,3 +30,5 @@ Please only open an issue if you want to suggest an enhancement to one of existi
 
 ### Test bugs in the latest version.
 Please, when reporting a bug, make sure to test it in the latest *supported* version of BEEMod, and make sure you are using the latest version of the packages. I will not help you if either is outdated, as your problem may have been fixed in a newer release.
+
+## Basically, use common sense and don't be annoying.
