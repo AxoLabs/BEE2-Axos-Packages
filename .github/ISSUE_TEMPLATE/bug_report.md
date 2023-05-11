@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 ### BEEMod version
-Provide the version of the BEE app and the packages.
+Provide the version of the BEE app and the packages, as well as if it was downloaded from this repo, or somewhere else.
 
 ### UCP version
 State the version of the UCP the issue is related to.
