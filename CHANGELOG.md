@@ -1,9 +1,9 @@
 # Version 1.8
-The main package took: [] development versions, with `Beta [] Build [] RC []` being the one which got released.
+The main package took: 9 development versions, with `Beta 1 Build 9 RC 2` being the one which got released.
 
-The hybrid style took: [] development versions, with `Beta [] Build [] RC []` being the one which got released.
+The hybrid style took: 7 development versions, with `Beta 4 Build 2 RC 3` being the one which got released.
 
-The hazard identification boards did not receive any changes (again).
+The hazard identification boards did not receive any changes (*yet* again).
 ### Changelog
 - Fixed #11.
 - Fixed #5.
