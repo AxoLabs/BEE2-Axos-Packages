@@ -1,4 +1,4 @@
-## Version 1.8
+# Version 1.8
 The main package took: [] development versions, with `Beta [] Build [] RC []` being the one which got released.
 The hybrid style took: [] development versions, with `Beta [] Build [] RC []` being the one which got released.
 The hazard identification boards did not receive any changes (again).
