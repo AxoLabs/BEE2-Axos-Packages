@@ -157,5 +157,3 @@ The first release. Contains:
 - The purple paint fizzler version 14.
 - The portal condensation grid version 5.
 - The physics obliteration field version 11.
-
-Installation: Download the .zip, drop the .bee_packs into your packages folder, and enjoy!
