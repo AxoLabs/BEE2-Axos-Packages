@@ -1,6 +1,8 @@
 # Version 1.8
 The main package took: [] development versions, with `Beta [] Build [] RC []` being the one which got released.
+
 The hybrid style took: [] development versions, with `Beta [] Build [] RC []` being the one which got released.
+
 The hazard identification boards did not receive any changes (again).
 ### Changelog
 - Fixed #11.
@@ -22,7 +24,9 @@ The hazard identification boards did not receive any changes (again).
 ---
 # Version 1.7.2
 The main package took: 1 development version, with `Beta 1 Build 1 Release Candidate 1` being the one which got released.
+
 The hybrid style took: 6 development versions, with `Beta 2 Build 4 Release Candidate 1` being the one which got released.
+
 The hazard identification boards did not receive any changes (again).
 ### Changelog
 - Added a new item: The cube hole. It is a hole that cubes and such can pass through, but the player can't.
@@ -46,7 +50,9 @@ The hazard identification boards did not receive any changes.
 ---
 # Version 1.7
 The main package took: 18 development versions, with `Beta 3 Build 5 Release Candidate 4` being the one which got released.
+
 The hazard identification boards took: 4 development versions, with `Beta 1 Build 4 Release Candidate 2` being the one which got released.
+
 The hybrid style took: 37 development versions, with `Beta 7 Build 11 Release Candidate 2` being the onw which got released.
 ### Changelog
 - Added a brand-new style: The hybrid style. It is a combination of Portal 1's and Portal 2's aesthetics, with some additional, minor changes. Heavily inspired by Zepalesque's *Portal: Enrichment* videos.
