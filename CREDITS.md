@@ -2,7 +2,7 @@ Here, you can find everyone who has contributed to the packages in any way.
 
 **Areng** - Helped with the (now removed) physics obliteration field and the Reflection gel fixer.
 
-**TeamSpen210** - Helped with the (now removed) physics obliteration field, Schrödinger's cubes and the Reflection gel fixer. Made the paint fizzler, which I have repurposed as a base for my custom fizzlers.
+**TeamSpen210** - Helped with the (now removed) physics obliteration field, Schrödinger's cubes and the Reflection gel fixer. Made the paint fizzler, which I have repurposed as a base for my (now removed) custom fizzlers.
 
 **PieCreeper** - Created the cooperative cube fixer, which I used to find out how to make command-running items, like the (now removed) portal lights enabler. Made icons for the purple paint fizzler and Schrödinger's cubes.
 
