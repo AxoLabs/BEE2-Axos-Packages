@@ -1,6 +1,33 @@
-## Version 1.7.2
+# Version 1.8
+The main package took: 9 development versions, with `Beta 1 Build 9 RC 2` being the one which got released.
+
+The hybrid style took: 8 development versions, with `Beta 4 Build 3 RC 4` being the one which got released.
+
+The hazard identification boards did not receive any changes (*yet* again).
+### Changelog
+- Fixed #11.
+- Fixed #5.
+- Fixed hybrid style's ceiling goo textures being set to use BTS yellow plastic textures.
+- Implemented #14.
+- Added a check if there's space for the camera above the entry/exit doors to spawn in the hybrid style.
+- Added hybrid-styled versions of asd417's HD pellet catchers.
+- Added on option to enable the Portal 1 color correction in the hybrid style.
+- Tweaked the metal tile variety in the hybrid style. The 4x4 textures will appear much less often on walls, and ceilings now use several textures, instead of only one.
+- Tweaked the lights in medium obs. rooms in the hybrid style.
+- Tweaked how heavy the gel flow will be when it's set to 'very heavy' on cube dropper gel droppers.
+- Tweaked the editor icons for the protruding autoportal, the angled autoportal, the unlinked autoportal, the cube hole, and Schrödinger's cubes.
+- Normal gel droppers will now use their P1-styled variants in the hybrid style.
+- Normal permanent pellet catchers will now turn yellow when activated in the hybrid style.
+- Cleaned up some of the comments in the packages' files.
+- Removed several light entities from the large obs. room in the hybrid style.
+- Removed vertical entrances and exits from the hybrid style, they were broken.
+- Removed support for several cut fizzlers from the hybrid style in order to keep the files tidy.
+---
+# Version 1.7.2
 The main package took: 1 development version, with `Beta 1 Build 1 Release Candidate 1` being the one which got released.
+
 The hybrid style took: 6 development versions, with `Beta 2 Build 4 Release Candidate 1` being the one which got released.
+
 The hazard identification boards did not receive any changes (again).
 ### Changelog
 - Added a new item: The cube hole. It is a hole that cubes and such can pass through, but the player can't.
@@ -24,7 +51,9 @@ The hazard identification boards did not receive any changes.
 ---
 # Version 1.7
 The main package took: 18 development versions, with `Beta 3 Build 5 Release Candidate 4` being the one which got released.
+
 The hazard identification boards took: 4 development versions, with `Beta 1 Build 4 Release Candidate 2` being the one which got released.
+
 The hybrid style took: 37 development versions, with `Beta 7 Build 11 Release Candidate 2` being the onw which got released.
 ### Changelog
 - Added a brand-new style: The hybrid style. It is a combination of Portal 1's and Portal 2's aesthetics, with some additional, minor changes. Heavily inspired by Zepalesque's *Portal: Enrichment* videos.
@@ -129,5 +158,3 @@ The first release. Contains:
 - The purple paint fizzler version 14.
 - The portal condensation grid version 5.
 - The physics obliteration field version 11.
-
-Installation: Download the .zip, drop the .bee_packs into your packages folder, and enjoy!

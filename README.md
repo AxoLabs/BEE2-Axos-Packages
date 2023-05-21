@@ -64,13 +64,13 @@ Changes the color of Reflection gel to be gray when splashed on surfaces and you
 *Hybrid style's preview image*
 ![hybrid_style_1](https://user-images.githubusercontent.com/125143965/235435706-d7532228-1b74-4292-944e-67f6d10d2f16.png)
 *Schrödinger's cubes*
-![schrodinger's_cubes](https://user-images.githubusercontent.com/125143965/235433342-4fff0be9-8e95-4355-9c35-562f04444b30.png)
+![schrodinger's_cubes_2](https://github.com/AxoLabs/BEE2-Axos-Packages/assets/125143965/2fba3a27-0423-44b7-8b16-3e61f2f71016)
 *Suspended panels*
 ![suspended_panels](https://user-images.githubusercontent.com/125143965/235435765-9598e6a9-588e-4260-8a25-b1b29f8b33d4.png)
 *Hybrid style in action, the map can be found [here](https://steamcommunity.com/sharedfiles/filedetails/?id=2961094236)*
 ![hybrid_style_2](https://user-images.githubusercontent.com/125143965/235436555-d9f7ef68-f394-46f6-b2d9-48bb184c639d.png)
-*Hybrid style's exit corridor 4#*
-![hybrid_style_4](https://user-images.githubusercontent.com/125143965/235436348-02d82d12-6b9f-4592-8985-22dfd66d75bf.png)
+*Hybrid style's exit corridor 3#*
+![hybrid_style_4_2](https://github.com/AxoLabs/BEE2-Axos-Packages/assets/125143965/2b57ac95-65df-4dbb-99cb-eafd82320850)
 *Stair variants*
 ![stair_variants](https://user-images.githubusercontent.com/125143965/235435948-5cadf695-c126-4ea1-a83b-29da3c0acefa.png)
 *Large glass panels*
@@ -84,4 +84,4 @@ Changes the color of Reflection gel to be gray when splashed on surfaces and you
 *Protruding autoportal, protruding surface, and a cube dropper gel dropper dropping a gel bomb*
 ![autoportals_and_gel_bombs](https://user-images.githubusercontent.com/125143965/235436211-0b3e0a82-2925-4031-aaf1-f0b87309592d.png)
 *An unnecessarily complicated setup of Schrödinger's cubes used to activate an unlinked autoportal*
-![schrodinger's_cubes_and_unlinked_autoportals](https://user-images.githubusercontent.com/125143965/235436489-838b4939-b813-49e8-bead-19f03c710845.png)
+![schrodinger's_cubes_and_unlinked_autoportals_2](https://github.com/AxoLabs/BEE2-Axos-Packages/assets/125143965/d944ff63-8452-416c-b7e5-0435af2826e0)
