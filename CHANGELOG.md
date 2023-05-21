@@ -1,7 +1,7 @@
 # Version 1.8
 The main package took: 9 development versions, with `Beta 1 Build 9 RC 2` being the one which got released.
 
-The hybrid style took: 7 development versions, with `Beta 4 Build 2 RC 3` being the one which got released.
+The hybrid style took: 8 development versions, with `Beta 4 Build 3 RC 4` being the one which got released.
 
 The hazard identification boards did not receive any changes (*yet* again).
 ### Changelog
@@ -17,6 +17,7 @@ The hazard identification boards did not receive any changes (*yet* again).
 - Tweaked how heavy the gel flow will be when it's set to 'very heavy' on cube dropper gel droppers.
 - Tweaked the editor icons for the protruding autoportal, the angled autoportal, the unlinked autoportal, the cube hole, and Schrödinger's cubes.
 - Normal gel droppers will now use their P1-styled variants in the hybrid style.
+- Normal permanent pellet catchers will now turn yellow when activated in the hybrid style.
 - Cleaned up some of the comments in the packages' files.
 - Removed several light entities from the large obs. room in the hybrid style.
 - Removed vertical entrances and exits from the hybrid style, they were broken.
