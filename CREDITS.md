@@ -16,7 +16,7 @@ Here, you can find everyone who has contributed to the packages in any way.
 
 **Rooke** - Informed me about the Sign Maker, which sparked the idea for customizable hazard identification boards.
 
-**Carl Kenner** - Made the paint fizzler, which I have repurposed as a base for my custom fizzlers.
+**Carl Kenner** - Made the paint fizzler, which I have repurposed as a base for my (now removed) custom fizzlers.
 
 **Drgregs** - Made the broken observation room, which I used to find out how to make items change their instance depending on whether a property is checked or not.
 
