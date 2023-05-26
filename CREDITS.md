@@ -4,7 +4,7 @@ Here, you can find everyone who has contributed to the packages in any way.
 
 **TeamSpen210** - Helped with the (now removed) physics obliteration field, Schrödinger's cubes and the Reflection gel fixer. Made the paint fizzler, which I have repurposed as a base for my (now removed) custom fizzlers.
 
-**PieCreeper** - Created the cooperative cube fixer, which I used to find out how to make command-running items, like the (now removed) portal lights enabler. Made icons for the purple paint fizzler and Schrödinger's cubes.
+**PieCreeper** - Created the cooperative cube fixer, which I used to find out how to make command-running items, like the (now removed) portal lights enabler. Made editor icons for the purple paint fizzler and Schrödinger's cubes (the latter was replaced by an icon made by me in 1.8).
 
 **IMyself** - Created the Boxiter, which I used to find out how to make a portable laser emitter and a cube dropper in order to make Schrödinger's cubes.
 
