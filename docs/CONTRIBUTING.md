@@ -23,14 +23,16 @@ Don't open five issues at once, especially if it's to report known bugs or sugge
 Please report any bugs or enhancement ideas in the issues section. I will not look into a suggestion/bug that has not been reported there, no matter how severe it is.
 
 ### Know what you are talking about
-Unless you have experience with how Portal 2 and BEEMod work, I kindly ask you not to propose 'solutions' to bugs, or try to 'help' with fixing them.
+Unless you have experience with how Portal 2 and BEEMod work, I kindly ask you not to propose 'solutions' to bugs, or try to help with fixing them.
 
 ### Use issues for their intended purpose.
-Please only open an issue if you want to suggest an enhancement to one of existing UCPs or want to report a bug. Do not use them as a discussion forum, or a place to suggest new items. This also means you are expected to use the appropriate issue template.
+Please only open an issue if you want to suggest an enhancement to one of the existing UCPs or want to report a bug. Do not use them as a discussion forum, or a place to suggest new items. This also means you are expected to use the appropriate issue template.
 
 ### Test bugs in the latest, unmodified version.
 Please, when reporting a bug, make sure to test it in the latest *supported* version of BEEMod, and make sure you are using the latest version of the packages. I will not help you if either is outdated, as your problem may have been fixed in a newer release.
 
-You will also not receive any help should you use the versions of the packages from the 'Portal Community' Discord server - They have been modified against my wishes, the server's owner has re-added several garbage items without notifying me beforehand, or even asking for permission. As such, I will not help with any issues encountered while using the package versions from there.
+I will not provide help if the version of the package you are using has been downloaded from elsewhere (with the only exception being the Portal Community server), as it was re-uploaded without my permission.
 
-## Basically, use common sense and don't be annoying.
+If you have made any changes to the package, I would be very grateful if you could, before reporting an issue, ensure it also persists in an unmodified version of the package. Thank you in advance!
+
+## To summarize: Use common sense and don't be annoying.
