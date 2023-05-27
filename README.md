@@ -8,6 +8,8 @@ By the way, if you are going to use one or more of my items in a map, I'd greatl
 
 If you want to suggest an enhancement, or report a bug, please read the **contributing guidelines**: https://github.com/AxoLabs/BEE2-Axos-Packages/blob/main/docs/CONTRIBUTING.md
 
+**NOTICE**: Redistributing *any* of my packages and/or their contents, modified or unmodified, without my explict permission and my knowledge, is prohibited.
+
 ## A list of the packages' contents and their functions, ordered by significance
 ### Schrödinger's cubes
 A cut testing element reimplemented by me from scratch. They are a pair of cubes, when a laser hits the catcher cube, it'll come out of the emitter cube. You can read about them here: https://tcrf.net/Portal_2#Schr.C3.B6dinger.27s_Cube
