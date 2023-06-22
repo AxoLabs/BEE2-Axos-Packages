@@ -4,11 +4,11 @@ Supported version of BEEMod: 2.4.43.0.
 
 Supported styles: OG clean and hybrid. Some items might have variants for other styles, but usually it's because removing the styled variants takes more effort than keeping them.
 
-By the way, if you are going to use one or more of my items in a map, I'd greatly appreciate being credited for making them.
+If you are going to use my items/assets I made for them in a map, I'd greatly appreciate being credited for making them.
 
 If you want to suggest an enhancement, or report a bug, please read the **contributing guidelines**: https://github.com/AxoLabs/BEE2-Axos-Packages/blob/main/docs/CONTRIBUTING.md
 
-**NOTICE**: Redistributing *any* of my packages and/or their contents, modified or unmodified, without my explict permission and my knowledge, is prohibited.
+**NOTICE**: Redistributing *any* of my packages and/or their contents, modified or unmodified, without my explict permission is prohibited.
 
 ## A list of the packages' contents and their functions, ordered by significance
 ### Schrödinger's cubes
