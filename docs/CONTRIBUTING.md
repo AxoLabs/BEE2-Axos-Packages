@@ -4,35 +4,31 @@ Did you find a bug in one of the UCPs that's problematic, or do you want to sugg
 Issues that do not follow these guidelines will be closed, and repeatedly failing to follow these will result in your account getting banned from the repository.
 
 ### Keep issues clear and understandable.
-Please describe issues and enhancements as clearly as possible. Keep the issue easily readable and understandable, and provide as much information as you can. Unclear, sloppily written issues are of no use and will be closed.
+Please describe issues and enhancements as clearly as possible. Keep the issue easily readable and understandable, and provide as much information as you can. Unclear, sloppily written issues will be closed.
 You are expected to reply if asked for more information. 
 
 ### Do not reopen issues.
-If your issue is closed, it is a deliberate decision made by me, and re-opening it will not do you any good. This also means you shouldn't comment on closed issues.
+If your issue is closed, it was done deliberately by me. Please do not comment on closed issues either.
 
-### Do not create duplicate issues.
-Please check if an issue regarding a certain matter hasn't already been opened. If it was, do not create another one. Duplicate issues will be closed immediately. This also means you shouldn't open issues for things that have already been added to a to-do list for an update.
+### Do not create duplicate issues/issues for already known bugs.
+Please check if an issue regarding a certain matter hasn't already been opened. If it was, do not create another one. Duplicate issues will be closed immediately. Please also check the to-do list for the next update to see if your suggestion isn't already planned/worked on.
+*// To do: Put together a list of all the known bugs with the package.*
 
 ### Do not combine issues.
-Please do not combine several bug reports/enhancement ideas into a single issue. While it may seem efficient, it also makes it annoying to keep track of them.
-
-### Do not spam issues.
-Don't open five issues at once, especially if it's to report known bugs or suggest enhancement that are **really** obvious and likely haven't been added due to a good reason, or are almost certainly already planned, and possibly being worked on. Opening issues for the slightest, most insignificant bugs that have no impact on an item's functionality will also count as spam.
+Please do not combine several unrelated bug reports/enhancement ideas into a single issue. While it may seem efficient, it also makes it annoying to keep track of them.
 
 ### Report bugs/suggest enhancements in the issues section
-Please report any bugs or enhancement ideas in the issues section. I will not look into a suggestion/bug that has not been reported there, no matter how severe it is.
+Please report any bugs or enhancement ideas in the issues section. Suggestions/bugs that have not been reported there will not be looked into, no matter how severe they are.
 
 ### Know what you are talking about
-Unless you have experience with how Portal 2 and BEEMod work, I kindly ask you not to propose 'solutions' to bugs, or try to help with fixing them.
+Unless you have experience with how Portal 2 and the BEEMod work, please do not propose 'solutions' to bugs, or try to help with fixing them.
 
 ### Use issues for their intended purpose.
-Please only open an issue if you want to suggest an enhancement to one of the existing UCPs or want to report a bug. Do not use them as a discussion forum, or a place to suggest new items. This also means you are expected to use the appropriate issue template.
+Please only open an issue if you want to suggest an enhancement to one of my packages or want to report a bug within them. Do not use them as a discussion forum, or a place to suggest new items. While reporting issues, please use the correct issue template.
 
 ### Test bugs in the latest, unmodified version.
-Please, when reporting a bug, make sure to test it in the latest *supported* version of BEEMod, and make sure you are using the latest version of the packages. I will not help you if either is outdated, as your problem may have been fixed in a newer release.
+Please, when reporting a bug, make sure to test it in the latest version of the BEEMod my packages support, and make sure you are using the latest version of the packages. I will not help you if either is outdated, as your problem may have been fixed in a newer release. If you have made any changes to the packages, I would be very grateful if you could, before reporting an issue, ensure the issue also persists in an unmodified version of the package.
 
-I will not provide help if the version of the package you are using has been downloaded from elsewhere (with the only exception being the Portal Community server), as it was re-uploaded without my permission.
+I will not provide help if the version of the package you are using has been downloaded from elsewhere than this repository (with the only exception being the Portal Community server), as it was re-uploaded without my permission.
 
-If you have made any changes to the package, I would be very grateful if you could, before reporting an issue, ensure it also persists in an unmodified version of the package. Thank you in advance!
-
-## To summarize: Use common sense and don't be annoying.
+## To summarize: Use common sense and don't be annoying. Thank you in advance!
