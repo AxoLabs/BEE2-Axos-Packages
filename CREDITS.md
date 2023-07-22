@@ -2,7 +2,7 @@ Here, you can find everyone who has contributed to the packages in any way.
 
 **Areng** - Helped with the now removed physics obliteration field and Reflection gel fixer.
 
-**Dog** - Hybrid-styled button models.
+**dog5987** - Hybrid-styled button models.
 
 **TeamSpen210** - Helped with several items. Made the paint fizzler, which the (now removed) custom fizzlers were based off and the quarter forcer used as a reference point for the enhanced surface markers.
 
