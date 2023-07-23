@@ -6,6 +6,8 @@ The hybrid style took: 65 development versions, with `Beta 21 Build 3 RC 8` bein
 The hazard identification boards did not receive any changes.
 ### Changelog
 - *Literally nothing, that's it! Nothing's changed in this update at all!*
+- Emitter Schrödinger's cubes can no longer reflect lasers.
+- *Oh wait guess something's changed.*
 ---
 # Version 1.8
 The main package took: 9 development versions, with `Beta 1 Build 9 RC 2` being the one which got released.
