@@ -1,3 +1,34 @@
+# Version 1.9
+The main package took: 29 development versions, with `Beta 9 Build 7 RC 7` being the one which got released.
+
+The hybrid style took: 65 development versions, with `Beta 21 Build 3 RC 8` being the one which got released.
+
+The hazard identification boards did not receive any changes.
+## Changelog
+### Main package
+- Added enhanced surface markers - A fixed and expanded version of the default surface marker.
+- Emitter Schrödinger's cubes can no longer reflect lasers.
+- Improved the respawning logic used by Schrödinger's cubes.
+- Removed the stair items. Half stairs are due to be reworked in a future update.
+- Removed the reflection gel fixer.
+- The geometry, panel, and autoportal items have been massively improved.
+- Improved the editor icons for suspended panels and protruding surfaces.
+- Given Schrödinger's cubes proper instance prefixes.
+### The hybrid style
+- Increased the lighting emitted by medium and large observation rooms.
+- Weighted buttons now use an awesome custom model made by dog5987.
+- Weighted and companion cubes now use the P1 model alongside custom textures made by me.
+- Heavily tweaked the metal tile texture pool.
+- Cameras no longer use Portal 1-styled models due to issues with inconsistency and the model not being precached correctly in some cases.
+- Medium and large observation rooms have received some minor decorative changes.
+- Removed the custom white tile textures from the style.
+- Ceiling-mounted observation rooms now turn into large light holes seen in Portal 1.
+- Floor-mounted observation rooms now turn into pits filled with an orange glow with glass over them.
+- Cube droppers have been given a Portal 1 - Portal 2 hybrid appearance.
+- Several entry and exit corridors have been subtly improved.
+- Added a stylevar that allows you to disable the projected textures in large observation rooms.
+- Added several variants of the 4x4 white tile texture which have some of the tiles slightly darker.
+---
 # Version 1.8
 The main package took: 9 development versions, with `Beta 1 Build 9 RC 2` being the one which got released.
 
