@@ -18,6 +18,7 @@ A cut testing element reimplemented by me from scratch. They are a pair of cubes
 - **Start enabled** controls whether the cube will drop automatically when the map is loaded or not.
 - **Start active** controls whether a replacement cube will be delivered automatically when the cube is destroyed.
 - **Cube type** allows you to link catcher cubes and emitter cubes together - For example, a catcher cube with the cube type set to sphere will activate all emitter cubes with the cube type set to sphere, one with the type set to standard will activate all with the type set to standard, and so on.
+- Due to an editor bug, this item can be attached to floor surfaces. It will not work when floor-oriented, however.
 ### Hybrid style
 A style that aims to combine Portal 1's and Portal 2's aesthetical styles. Inspired by Zepalesque's *Portal: Enrichment* videos.
 - Portal 1-styled observation rooms are used.
@@ -28,31 +29,33 @@ A style that aims to combine Portal 1's and Portal 2's aesthetical styles. Inspi
 - Weighted cubes have new textures.
 - And a lot more.
 ### Enhanced Surface Marker
-A fixed and expanded version of the surface marker item that can force 5 different tile patterns and 4 different textures onto walls. For a more in-depth guide on how to use it, please consult the [wiki](https://github.com/AxoLabs/BEE2-Axos-Packages/wiki/Enhanced-surface-markers).
+A fixed and expanded version of the surface marker item that can force 5 different tile patterns and 5 different textures onto walls. For a more in-depth guide on how to use it, please consult the [wiki](https://github.com/AxoLabs/BEE2-Axos-Packages/wiki/Enhanced-surface-markers).
 ### Cube hole
 A hole cubes and such can pass through, but the player can not.
+### Autoportal variants
+- Protruding autoportal: An autoportal mounted on a surface protruding from the wall by 8 units.
+- Angled autoportal, an autoportal mounted on an angled surface. **Button type** allows you to switch between an angle of 60, 45, and 30 degrees.
+- Unlinked autoportal, an autoportal that is not linked to your portal gun. Use the **timer** to select the linkage ID.
+- For all three, the start **start enabled** option controls whether the portal starts active or not.
+- For all three, **start reversed** controls whether the portal is orange or blue.
 ### Large glass panels
 A larger, unembedded version of the normal glass panel.
 - **Start deployed** controls whether the panel starts raised/extended or not.
 - **Start reversed** when checked, switches to the 128x256 model.
 - If input B is used, instead of raising by 90 degrees, upon activation, the panel will extend by a voxel.
+### Suspended panel
+A surface held by a panel a voxel above the ground.
+- Check **start reversed** to make it non-portalable.
+### Protruding surface
+A portalable surface, protruding out a wall. Comes with a powerful portal magnet implemented into it. **Start reversed** makes the plastic textures darker.
 ### Cube dropper gel dropper
 A custom variant of the gel dropper that uses a cube dropper model instead.
 - **Cube type** controls the type of the gel the dropper drops.
 - **Button type** controls the gel flow.
 - **Start enabled** controls whether the dropper starts active or not.
-### Protruding surface
-A portalable surface, protruding out a wall. Comes with a powerful portal magnet implemented into it. **Start reversed** makes the plastic textures darker.
-### Personalized hazard identification board
+- Due to an editor bug, this item can be attached to floor surfaces. It will not work when floor-oriented, however.
+  ### Personalized hazard identification board
 A test sign that can be easily customized. Read the `Instructions.txt` file carefully for more info.
-- Use Omnicoder's Sign Maker to generate a template for this item to load: https://developer.valvesoftware.com/wiki/Sign_Maker (Important note: The Sign Maker was not made, or worked on by me, at any rate).
-### Autoportal variants
-- Protruding autoportal: An orange autoportal mounted on a protruding surface. **Start reversed** makes the plastic textures darker.
-- Angled autoportal, an orange autoportal mounted on an angled surface. **Start reversed** makes the plastic textures darker.
-- Unlinked autoportal, an autoportal that is not linked to your portal gun. Use the **timer** to select the linkage ID, and **start reversed** to control whether the portal is orange or blue.
-- For all three, the start **start enabled** option controls whether the portal starts active or not.
-### Suspended panel
-A surface held by a panel a voxel above the ground.
-- Check **start reversed** to make it non-portalable.
+- Use Omnicoder's Sign Maker to generate a template for this item to load: https://developer.valvesoftware.com/wiki/Sign_Maker (Important note: The Sign Maker was not made, or worked on by me).
 ### Purple paint fizzler
 A modified version of the default paint fizzler that is purple. The first item made for this package.

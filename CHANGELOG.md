@@ -1,3 +1,22 @@
+# Version 1.9.1
+The main package took: 10 development versions, with `Beta 5 Build 6 RC 2` being the one which got released.
+
+The hybrid style took: 9 development versions, with `Beta 3 Build 5 RC 2` being the one which got released.
+
+The hazard identification boards did not receive any changes.
+## Changelog
+### Main package
+- Schrödinger's cubes now use a single, VScript-resized `point_laser_target` to detect lasers, significantly simplifying and optimizing the logic.
+- The angle of an angled autoportal can now be changed using the __button type__ property.
+- Protruding and angled autoportals have been redesigned to better fit Portal 2's aesthetic.
+- Protruding and angled autoportals can now be blue.
+- Schrödinger's cube droppers and cube dropper gel droppers can no longer be placed on the floor.
+- Enhanced surface markers can now force the `black_wall_metal002d` texture onto tiles.
+### The hybrid style
+- The metal tile texture pool has been overhauled entirely.
+- Fixed trigger buttons using a clean-styled model.
+- Fixed turret droppers using their clean-styled appearance.
+---
 # Version 1.9
 The main package took: 29 development versions, with `Beta 9 Build 7 RC 7` being the one which got released.
 
