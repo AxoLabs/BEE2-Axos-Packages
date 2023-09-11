@@ -6,7 +6,7 @@ The hybrid style took: 9 development versions, with `Beta 3 Build 5 RC 2` being 
 The hazard identification boards did not receive any changes.
 ## Changelog
 ### Main package
-- Schrödinger's cubes now use a single, VScript-resized `point_laser_target` to detect lasers, significantly simplyfying and optimizing the logic.
+- Schrödinger's cubes now use a single, VScript-resized `point_laser_target` to detect lasers, significantly simplifying and optimizing the logic.
 - The angle of an angled autoportal can now be changed using the __button type__ property.
 - Protruding and angled autoportals have been redesigned to better fit Portal 2's aesthetic.
 - Protruding and angled autoportals can now be blue.
