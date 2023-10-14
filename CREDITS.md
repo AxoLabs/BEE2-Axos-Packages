@@ -4,7 +4,7 @@ Here, you can find everyone who has contributed to the packages in any way.
 
 **dog5987** - Hybrid-styled button models.
 
-**TeamSpen210** - Helped with several items. Made the paint fizzler, which the (now removed) custom fizzlers were based off and the quarter forcer used as a reference point for the enhanced surface markers.
+**TeamSpen210** - Helped with several items. Made the paint fizzler, which the (now removed) custom fizzlers were based off and the quarter forcer used as a reference point for the enhanced surface markers. Helped with the hybrid-styled elevators.
 
 **Anoenen** - Made the quarter forcer, which was used as a reference point for the enhanced surface markers.
 
@@ -26,6 +26,7 @@ Here, you can find everyone who has contributed to the packages in any way.
 
 **Zepalesque** - Made the [Portal: Enrichment videos](https://www.youtube.com/playlist?list=PLJy18hkx9K6090cusjxz057iYOgw1k4_x).
 , which inspired the hybrid style.
+
 **BurningCakeDoesAche** - The "Hybrid" map, which inspired the hybrid style's name.
 
 If anyone feels they should have been credited, but have been not, please let me know.

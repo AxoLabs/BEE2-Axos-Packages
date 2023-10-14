@@ -1,3 +1,22 @@
+# Version 1.9.2
+The main package took: 7 development versions, with `Beta 3 Build 1 RC 4` being the one which got released.
+
+The hybrid style took: 12 development versions, with `Beta 4 Build 2 RC 6` being the one which got released.
+
+The hazard identification boards did not receive any changes.
+## Changelog
+### Main package
+- Schrödinger's cubes are no longer divided into catcher and emitter cubes, every cube can catch and emit lasers now. Essentially, they now work the same the base Portal 2 ones do.
+- Fizzling one Schrödinger's cube will cause all linked to fizzle as well.
+- Enhanced surface markers can now be used to delete tiles they are placed on by checking the __start locked__ property.
+- Removed cube dropper gel droppers.
+### The hybrid style
+- The white tile pool for ceilings has been tweaked slightly.
+- Weighted, cube, sphere and trigger buttons now have emit a subtle, red light.
+- Co-op corridors and the exit room have been modified to match the style.
+- The hybrid style now uses P1-esque elevators.
+- Test chamber doors now use a texture that's consistent with Portal 2's color palette and change color when activated.
+---
 # Version 1.9.1
 The main package took: 10 development versions, with `Beta 5 Build 6 RC 2` being the one which got released.
 

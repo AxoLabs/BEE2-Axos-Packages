@@ -12,19 +12,18 @@ If you want to suggest an enhancement, or report a bug, please read the **contri
 
 ## A list of the packages' contents and their functions, ordered by significance
 ### Schrödinger's cubes
-A cut testing element reimplemented by me from scratch. They are a pair of cubes, when a laser hits the catcher cube, it'll come out of the emitter cube. You can read about them here: https://tcrf.net/Portal_2#Schr.C3.B6dinger.27s_Cube. For in-depth documentation
-- They are a bit buggy, but should work mostly fine. I have plans to slightly improve them in future updates, but don't take it as a promise.
-- **Start reversed** controls whether the cube is a catcher cube (will power emitter cubes when touching a laser), or an emitter cube (will fire a laser when powered by a catcher cube).
+A cut testing element reimplemented by me from scratch. They are a pair of cubes, when a laser one cube, other. You can read more about them here: https://tcrf.net/Portal_2#Schr.C3.B6dinger.27s_Cube.
 - **Start enabled** controls whether the cube will drop automatically when the map is loaded or not.
 - **Start active** controls whether a replacement cube will be delivered automatically when the cube is destroyed.
-- **Cube type** allows you to link catcher cubes and emitter cubes together - For example, a catcher cube with the cube type set to sphere will activate all emitter cubes with the cube type set to sphere, one with the type set to standard will activate all with the type set to standard, and so on.
+- **Cube type** allows you to link cubes together - For example, a cube with the cube type set to sphere will activate all other cubes with the cube type set to sphere, one with the type set to standard will activate all with the type set to standard, and so on.
 - Due to an editor bug, this item can be attached to floor surfaces. It will not work when floor-oriented, however.
+- Due to various limitations of Portal 2, it is not possible to restore the paint-sharing functionality, unfortunately.
 ### Hybrid style
 A style that aims to combine Portal 1's and Portal 2's aesthetical styles. Inspired by Zepalesque's *Portal: Enrichment* videos.
 - Portal 1-styled observation rooms are used.
 - The pool of metal tile textures has been given more variety.
 - Portal 1's fizzling effect has been brought back.
-- Several singleplayer entry and exit corridors have been overhauled.
+- Several entry and exit corridors have been overhauled.
 - Portal 1-esque fizzlers are used used.
 - Weighted cubes have new textures.
 - And a lot more.
@@ -48,13 +47,7 @@ A surface held by a panel a voxel above the ground.
 - Check **start reversed** to make it non-portalable.
 ### Protruding surface
 A portalable surface, protruding out a wall. Comes with a powerful portal magnet implemented into it. **Start reversed** makes the plastic textures darker.
-### Cube dropper gel dropper
-A custom variant of the gel dropper that uses a cube dropper model instead.
-- **Cube type** controls the type of the gel the dropper drops.
-- **Button type** controls the gel flow.
-- **Start enabled** controls whether the dropper starts active or not.
-- Due to an editor bug, this item can be attached to floor surfaces. It will not work when floor-oriented, however.
-  ### Personalized hazard identification board
+### Personalized hazard identification board
 A test sign that can be easily customized. Read the `Instructions.txt` file carefully for more info.
 - Use Omnicoder's Sign Maker to generate a template for this item to load: https://developer.valvesoftware.com/wiki/Sign_Maker (Important note: The Sign Maker was not made, or worked on by me).
 ### Purple paint fizzler
