@@ -1,10 +1,10 @@
+# Important: As of 22/12/2023 the development of the packages is indefinitely cancelled. The downloads will remain, but issues will not be fixed and they are not guaranteed to work on BEEMod versions newer than 2.4.43.0.
+
 ![AxoLabs' UCPs](https://user-images.githubusercontent.com/125143965/220545356-dc6fc292-efe7-4334-b8f5-97226796dd05.png)
 # BEE2-Axo's-Packages
 Supported version of BEEMod: 2.4.43.0.
 
 Supported styles: OG clean and hybrid.
-
-If you are going to use my items/assets I made for them in a map, I'd greatly appreciate being credited for them.
 
 If you want to suggest an enhancement, or report a bug, please read the **contributing guidelines**: https://github.com/AxoLabs/BEE2-Axos-Packages/blob/main/docs/CONTRIBUTING.md
 
