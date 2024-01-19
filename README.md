@@ -1,6 +1,6 @@
 ![AxoLabs' UCPs](https://user-images.githubusercontent.com/125143965/220545356-dc6fc292-efe7-4334-b8f5-97226796dd05.png)
 # BEE2-Axo's-Packages
-Supported version of BEEMod: 2.4.43.0.
+Supported version of BEEMod: 2.4.44.0.
 
 Supported styles: OG clean and hybrid.
 
@@ -19,7 +19,6 @@ A cut testing element reimplemented by me from scratch. They are a pair of cubes
 ### Hybrid style
 A style that aims to combine Portal 1's and Portal 2's aesthetical styles. Inspired by Zepalesque's *Portal: Enrichment* videos.
 - Portal 1-styled observation rooms are used.
-- The pool of metal tile textures has been given more variety.
 - Portal 1's fizzling effect has been brought back.
 - Several entry and exit corridors have been overhauled.
 - Portal 1-esque fizzlers are used used.
@@ -43,10 +42,12 @@ A larger, unembedded version of the normal glass panel.
 ### Suspended panel
 A surface held by a panel a voxel above the ground.
 - Check **start reversed** to make it non-portalable.
+### Half stairs
+A set of stairs that only reaches half a voxel of height.
+- **Start reversed** controls which part of the voxel the stairs occupy - Unchecked for the top part, checked for the bottom.
+- The stair tiles will change color depending on the color of the tile they're placed on.
 ### Protruding surface
 A portalable surface, protruding out a wall. Comes with a powerful portal magnet implemented into it. **Start reversed** makes the plastic textures darker.
 ### Personalized hazard identification board
 A test sign that can be easily customized. Read the `Instructions.txt` file carefully for more info.
 - Use Omnicoder's Sign Maker to generate a template for this item to load: https://developer.valvesoftware.com/wiki/Sign_Maker (Important note: The Sign Maker was not made, or worked on by me).
-### Purple paint fizzler
-A modified version of the default paint fizzler that is purple. The first item made for this package.
