@@ -1,5 +1,3 @@
-## Important: As of 22/12/2023 the development of the packages is indefinitely cancelled. The downloads will remain, but issues will not be fixed and they are not guaranteed to work on BEEMod versions newer than 2.4.43.0.
-
 ![AxoLabs' UCPs](https://user-images.githubusercontent.com/125143965/220545356-dc6fc292-efe7-4334-b8f5-97226796dd05.png)
 # BEE2-Axo's-Packages
 Supported version of BEEMod: 2.4.43.0.
@@ -12,8 +10,8 @@ If you want to suggest an enhancement, or report a bug, please read the **contri
 
 ## A list of the packages' contents and their functions, ordered by significance
 ### Schrödinger's cubes
-A cut testing element reimplemented by me from scratch. They are a pair of cubes, when a laser one cube, other. You can read more about them here: https://tcrf.net/Portal_2#Schr.C3.B6dinger.27s_Cube.
-- **Start enabled** controls whether the cube will drop automatically when the map is loaded or not.
+A cut testing element reimplemented by me from scratch. They are a pair of cubes, when a laser enters one cube, it comes out of the other. You can read more about them here: https://tcrf.net/Portal_2#Schr.C3.B6dinger.27s_Cube.
+- **Start enabled** controls whether the cube will drop automatically when the map is loaded.
 - **Start active** controls whether a replacement cube will be delivered automatically when the cube is destroyed.
 - **Cube type** allows you to link cubes together - For example, a cube with the cube type set to sphere will activate all other cubes with the cube type set to sphere, one with the type set to standard will activate all with the type set to standard, and so on.
 - Due to an editor bug, this item can be attached to floor surfaces. It will not work when floor-oriented, however.
