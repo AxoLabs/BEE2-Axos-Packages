@@ -4,18 +4,34 @@ The main package took: 9 development versions, with `Beta 4 Build 3 RC 2` being 
 The hybrid style took: 33 development versions, with `Beta 10 Build 1 RC 2` being the once which got released.
 ## Changelog
 ### Main package
-
+- **Schrödinger's cubes no longer break if `point_laser_target` does not have a `parent` keyvalue defined in the .fgd**.
+- Schrödinger's cubes are no longer annoyingly difficult to pick up while emitting a laser.
+- Schrödinger's cubes can now simulatenously catch and emit a laser, whereas before they could only do one of those things at a given time.
+- Protruding and angled autoportals will now only turn on once you enter the chamber, as opposed to immediately turning on on map load (assuming __start enabled__ is checked).
+- Fixed some minor collision issues with large glass panels.
+- Suspended panels now use a gray backpanel texture on the back (as opposed to a yellow one).
+- The cube hole is now a `func_detail` instead of a world brush.
+- Re-added the __half stairs__ item. It is a set of stairs that only reaches half a voxel. Use __start reversed__ to control which part of the voxel this item occupies.
+- Removed the purple paint fizzler.
 ### Hybrid style
 - **The style is now fully compatible with BEEMod versions 2.4.44.x**.
 - Fixed the style failing to compile in versions 2.4.44.0 and above if indicator panels of any sort are present in a map.
 - Fixed the style missing entrance doors in version 2.4.44.0 and above.
-- Entrance corridors have been redone, based off their update 2.4.44.0 versions.
+- Entrance corridors have been redone, based off their 2.4.44.0 versions.
+- Portal 1, Portal Pro and Rexaura music tracks will now be marked as recommended for the hybrid style.
+- The Portal 1 skybox is now set as the recommended skybox for this style.
+- Disabled the elevator videos option, it wasn't functional anyway because hybrid uses Portal 1 elevators.
+- Pellet launchers are now affected by the "Ignore players" itemvar.
 - Wall and ceiling metal tile pool is now the same as for the original clean style.
 - Metal floor tiles now use a different texture.
 - Ceiling white tiles no longer occassionally use darker textures.
+- Fixed retraceable weighted buttons using the stock P2 weighted button model.
 - Weighted cube textures have been updated.
-- Unstationary scaffolds now use new, color-changing emitter models alongside new particle effects. Additionally, the laser will also change color depending on whether the scaffold is active or not.
-- Death fizzlers now use custom particles and modified emitter textures
+- Unstationary scaffolds now use new, color-changing emitter models alongside new particle effects. The laser will now also change color depending on whether the scaffold is active or not.
+- Death fizzlers now use custom particles and modified emitter textures.
+- Pedastal buttons now use color-changing P1 pedastal button models
+- Testchamber doors now use a new model.
+- Vertical doors, pellet launchers and pellet catchers now use models and textures from [Portal: Every Last Crumb](https://github.com/Valla-Chan/portal-elc-content)
 ---
 # Version 1.9.2
 The main package took: 7 development versions, with `Beta 3 Build 1 RC 4` being the one which got released.
