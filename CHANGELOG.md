@@ -1,3 +1,22 @@
+# Version 1.9.3
+The main package took: 9 development versions, with `Beta 4 Build 3 RC 2` being the one which got released.
+
+The hybrid style took: 33 development versions, with `Beta 10 Build 1 RC 2` being the once which got released.
+## Changelog
+### Main package
+
+### Hybrid style
+- **The style is now fully compatible with BEEMod versions 2.4.44.x**.
+- Fixed the style failing to compile in versions 2.4.44.0 and above if indicator panels of any sort are present in a map.
+- Fixed the style missing entrance doors in version 2.4.44.0 and above.
+- Entrance corridors have been redone, based off their update 2.4.44.0 versions.
+- Wall and ceiling metal tile pool is now the same as for the original clean style.
+- Metal floor tiles now use a different texture.
+- Ceiling white tiles no longer occassionally use darker textures.
+- Weighted cube textures have been updated.
+- Unstationary scaffolds now use new, color-changing emitter models alongside new particle effects. Additionally, the laser will also change color depending on whether the scaffold is active or not.
+- Death fizzlers now use custom particles and modified emitter textures
+---
 # Version 1.9.2
 The main package took: 7 development versions, with `Beta 3 Build 1 RC 4` being the one which got released.
 
