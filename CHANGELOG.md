@@ -1,4 +1,4 @@
-# Version 1.9.3
+# Version 1.10
 The main package took: 9 development versions, with `Beta 4 Build 3 RC 2` being the one which got released.
 
 The hybrid style took: 33 development versions, with `Beta 10 Build 1 RC 2` being the once which got released.
