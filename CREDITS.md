@@ -1,5 +1,3 @@
-Here, you can find everyone who has contributed to the packages in any way.
-
 **Areng** - Helped with the now removed physics obliteration field and Reflection gel fixer.
 
 **dog5987** - Hybrid-styled button models.
@@ -8,7 +6,7 @@ Here, you can find everyone who has contributed to the packages in any way.
 
 **Anoenen** - Made the quarter forcer, which was used as a reference point for the enhanced surface markers.
 
-**PieCreeper** - Created the cooperative cube fixer, used as a base for several (now removed) items. Made an editor icon for the purple paint fizzler.
+**PieCreeper** - Created the cooperative cube fixer, used as a base for several (now removed) items. Made an editor icon for the now removed purple paint fizzler.
 
 **IMyself** - Created the Boxiter, which was used as a reference point for some parts of Schrödinger's cubes.
 
@@ -18,15 +16,16 @@ Here, you can find everyone who has contributed to the packages in any way.
 
 **hikkigirl** - Helped with the Reflection gel fixer and Schrödinger's cubes.
 
-**Rooke** - Sparked the idea for customizable hazard identification boards.
+**Rooke** - Idea for customizable hazard identification boards.
 
 **Carl Kenner** - Made the paint fizzler, which the (now removed) custom fizzlers were based off.
 
 **Drgregs** - Made the broken obs. room, which's config has been used a base for Schrödinger's cubes' config.
 
-**Zepalesque** - Made the [Portal: Enrichment videos](https://www.youtube.com/playlist?list=PLJy18hkx9K6090cusjxz057iYOgw1k4_x).
-, which inspired the hybrid style.
+**Zepalesque** - Hybrid style inspiration.
 
 **BurningCakeDoesAche** - The "Hybrid" map, which inspired the hybrid style's name.
+
+[Portal: Every Last Crumb](https://github.com/Valla-Chan/portal-elc-content) assets by Allison Ghost (Valla-Chan)
 
 If anyone feels they should have been credited, but have been not, please let me know.
