@@ -3,6 +3,7 @@ The main package took: 6 development versions, with `Beta 3 Build 3 RC 5` being 
 
 The hybrid style took: 13 development versions, with `Beta 5 Build 5 RC 10` being the once which got released.
 ## Changelog
+*Note: Likely incomplete*
 ### Main package
 - **Schrödinger's cubes are now up to date with https://github.com/AxoLabs/P2-Schrodinger-s-cubes/releases/tag/Release-1.1**.
 - Added resilient cubes, more on them in the [README](https://github.com/AxoLabs/BEE2-Axos-Packages?tab=readme-ov-file#resilient-cube).
