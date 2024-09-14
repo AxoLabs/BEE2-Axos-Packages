@@ -1,11 +1,9 @@
 # BEE2-Axo's-Packages
-Supported version of BEEMod: 2.4.44.0.
+Supported version of BEEMod: 2.4.45.2.
 
 Supported styles: OG clean and hybrid.
 
-If you want to suggest an enhancement, or report a bug, please read the **contributing guidelines**: https://github.com/AxoLabs/BEE2-Axos-Packages/blob/main/docs/CONTRIBUTING.md
-
-**NOTICE**: Redistributing *any* of my packages and/or their contents, modified or unmodified, without my explict permission is prohibited.
+**NOTICE**: Redistributing any of my packages and/or their contents, modified or unmodified, without my direct permission is prohibited.
 
 ## A list of the packages' contents and their functions, ordered by significance
 ### Schrödinger's cubes
@@ -16,15 +14,15 @@ A cut testing element reimplemented by me from scratch. They are a pair of cubes
 - Due to an editor bug, this item can be attached to floor surfaces. It will not work when floor-oriented, however.
 - Due to various limitations of Portal 2, it is not possible to restore the paint-sharing functionality, unfortunately.
 ### Hybrid style
-A style that aims to combine Portal 1's and Portal 2's aesthetical styles. Inspired by Zepalesque's *Portal: Enrichment* videos.
-- Portal 1-styled observation rooms are used.
-- Portal 1's fizzling effect has been brought back.
-- Several entry and exit corridors have been overhauled.
-- Portal 1-esque fizzlers are used used.
-- Weighted cubes have new textures.
-- And a lot more.
+A style that aims to merge Portal 1's and Portal 2's aesthetical styles. Inspired by Zepalesque's *Portal: Enrichment* videos.
 ### Enhanced Surface Marker
 A fixed and expanded version of the surface marker item that can force 5 different tile patterns and 5 different textures onto walls. For a more in-depth guide on how to use it, please consult the [wiki](https://github.com/AxoLabs/BEE2-Axos-Packages/wiki/Enhanced-surface-markers).
+### Resilient Cube
+A blue-colored variant of the weighted box. It is far more durable than most cubes, rendering it immune to weaker methods of dissolving.
+- It can safely pass through standard fizzlers, death fizzlers, and matter inquisition fields. Absolute fizzlers, energy pellets and goo will still dissolve it.
+- To ensure it cannot be smuggled between test chambers, it causes exit and chamberlock fizzlers to become absolute fizzlers.
+- Sending an input to a linked dropper will also destroy the cube.
+- Much like the cube bomb and the bumbleball, it can be linked to a dropper using either the timer, or by being placed under a cube dropper.
 ### Cube hole
 A hole cubes and such can pass through, but the player can not.
 ### Autoportal variants
